@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "job-skill-radar"
+version = "0.1.0"
+description = "Evidence-based skill analysis of early-career US and China jobs"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+job-skill-radar = "radar.cli:main"
+
+[tool.setuptools]
+packages = ["radar"]

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+web/dist/
+.DS_Store
+.cache/
+.snapshot/
+.env*
+!.env.example
+*.tsbuildinfo
