@@ -1,0 +1,8 @@
+[
+  {"id":"nvidia","name":"NVIDIA","market":"US","adapter":"workday","url":"https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite","api":"https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite","facets":{"workerSubType":["0c40f6bd1d8f10adf6dae42e46d44a17","ab40a98049581037a3ada55b087049b7"]},"scope":"Intern and New College Graduate job types; US/China locations"},
+  {"id":"apple","name":"Apple","market":"US","adapter":"apple","url":"https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN","scope":"US internship team; graduate-only positions outside this team are not covered"},
+  {"id":"tencent","name":"腾讯 Tencent","market":"CN","adapter":"tencent","url":"https://join.qq.com","scope":"Campus recruiting, technical job family; US/China locations"},
+  {"id":"microsoft","name":"Microsoft","market":"US","adapter":"pending","url":"https://careers.microsoft.com/v2/global/en/students","scope":"Not connected","reason":"Career entry page verified. The current recruiting system still needs a validated paginated job adapter."},
+  {"id":"bytedance","name":"字节跳动 ByteDance","market":"CN","adapter":"pending","url":"https://jobs.bytedance.com/campus/position","scope":"Not connected","reason":"Campus page verified. Tested job search endpoint returned HTTP 405; browser-based adapter not yet validated."},
+  {"id":"huawei","name":"华为 Huawei","market":"CN","adapter":"pending","url":"https://career.huawei.com/cn/campus-recruitment","scope":"Not connected","reason":"Campus entry page verified. Dynamic search and detail pagination need a validated adapter."}
+]
