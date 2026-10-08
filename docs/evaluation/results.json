@@ -1,0 +1,101 @@
+{
+  "scope": "Curated real-job excerpts, closed skill vocabulary; not a held-out full-description benchmark",
+  "agent": {
+    "reviewer": "agent",
+    "reviewed_records": 40,
+    "languages": {
+      "zh": 20,
+      "en": 20
+    },
+    "categories": {
+      "3d": 10,
+      "ece": 10,
+      "vision": 10,
+      "ai": 10
+    },
+    "tp": 65,
+    "fp": 0,
+    "fn": 9,
+    "precision": 1.0,
+    "recall": 0.8783783783783784,
+    "errors": [
+      {
+        "id": "review-04",
+        "false_positives": [],
+        "false_negatives": [
+          "C"
+        ]
+      },
+      {
+        "id": "review-05",
+        "false_positives": [],
+        "false_negatives": [
+          "C"
+        ]
+      },
+      {
+        "id": "review-10",
+        "false_positives": [],
+        "false_negatives": [
+          "Segmentation"
+        ]
+      },
+      {
+        "id": "review-12",
+        "false_positives": [],
+        "false_negatives": [
+          "C"
+        ]
+      },
+      {
+        "id": "review-16",
+        "false_positives": [],
+        "false_negatives": [
+          "Diffusion models"
+        ]
+      },
+      {
+        "id": "review-17",
+        "false_positives": [],
+        "false_negatives": [
+          "C"
+        ]
+      },
+      {
+        "id": "review-22",
+        "false_positives": [],
+        "false_negatives": [
+          "Image processing"
+        ]
+      },
+      {
+        "id": "review-24",
+        "false_positives": [],
+        "false_negatives": [
+          "Computer vision"
+        ]
+      },
+      {
+        "id": "review-39",
+        "false_positives": [],
+        "false_negatives": [
+          "Machine learning"
+        ]
+      }
+    ],
+    "human_precision_target_met": false
+  },
+  "human": {
+    "reviewer": "human",
+    "reviewed_records": 0,
+    "languages": {},
+    "categories": {},
+    "tp": 0,
+    "fp": 0,
+    "fn": 0,
+    "precision": null,
+    "recall": null,
+    "errors": [],
+    "human_precision_target_met": false
+  }
+}

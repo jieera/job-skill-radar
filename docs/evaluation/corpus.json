@@ -1,0 +1,587 @@
+[
+  {
+    "id": "review-01",
+    "source_job_id": "tencent:1282707403120699393",
+    "source_url": "https://join.qq.com/jobdesc.html?postId=1282707403120699393",
+    "title": "算法-多模态方向",
+    "language": "zh",
+    "category": "3d",
+    "text": "1、研究和开发多模态处理算法和模型的研究与开发，包括但不限于：图像、视频、3D生成、声学信号的理解与生成、多模态信息和文本信息的对齐和整合；",
+    "review_status": "agent-reviewed",
+    "expected_skills": [],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-02",
+    "source_job_id": "tencent:1284592104206836737",
+    "source_url": "https://join.qq.com/jobdesc.html?postId=1284592104206836737",
+    "title": "软件开发-渲染引擎开发",
+    "language": "zh",
+    "category": "3d",
+    "text": "3、具备计算机图形学知识，熟悉3D图形渲染技术，至少熟悉OpenGL、Metal、vulkan等开发的一种；",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "OpenGL",
+      "Vulkan"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-03",
+    "source_job_id": "tencent:1199423750186201088",
+    "source_url": "https://join.qq.com/jobdesc.html?postId=1199423750186201088",
+    "title": "算法-多模态方向",
+    "language": "zh",
+    "category": "3d",
+    "text": "2、熟练掌握计算机视觉和图像处理相关的基本算法及应用，熟悉caffe、tensorflow，pytorch等至少一个深度学习框架；",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "Computer vision",
+      "Image processing",
+      "TensorFlow",
+      "PyTorch",
+      "Deep learning"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-04",
+    "source_job_id": "tencent:1227041736422233088",
+    "source_url": "https://join.qq.com/jobdesc.html?postId=1227041736422233088",
+    "title": "软件开发-渲染引擎开发",
+    "language": "zh",
+    "category": "3d",
+    "text": "2、精通C/C++，具备扎实的数据结构和算法基础，熟悉常用设计模式；",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "C",
+      "C++"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-05",
+    "source_job_id": "tencent:1208929078888320000",
+    "source_url": "https://join.qq.com/jobdesc.html?postId=1208929078888320000",
+    "title": "算法-多模态方向",
+    "language": "zh",
+    "category": "3d",
+    "text": "3、较强的工程实现能力，熟练掌握 C/C++ 编程，熟悉 Shell/Python/Matlab 至少一种编程语言。",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "C",
+      "C++",
+      "Python",
+      "MATLAB"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-06",
+    "source_job_id": "nvidia:JR2026739",
+    "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739",
+    "title": "Research Scientist, Fundamental Generative AI - New College Grad 2026",
+    "language": "en",
+    "category": "3d",
+    "text": "Experience in building generative models for text, image, 3D, video, multimodal, biology, chemistry, or material science data.",
+    "review_status": "agent-reviewed",
+    "expected_skills": [],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-07",
+    "source_job_id": "nvidia:JR2016032",
+    "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032",
+    "title": "Research Scientist, Physical AI - Foundation Models - PhD New College Grad 2026",
+    "language": "en",
+    "category": "3d",
+    "text": "Demonstrated proficiency in 3D generative models and their applications",
+    "review_status": "agent-reviewed",
+    "expected_skills": [],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-08",
+    "source_job_id": "nvidia:JR2025405",
+    "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405",
+    "title": "PhD Research Intern, Learning Embodied Skills from Human Data - 2027",
+    "language": "en",
+    "category": "3d",
+    "text": "Develop robust, scalable training and inference pipelines for motion reconstruction, generation, retargeting, and character and robot control.",
+    "review_status": "agent-reviewed",
+    "expected_skills": [],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-09",
+    "source_job_id": "nvidia:JR2025406",
+    "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
+    "title": "PhD Research Intern, Fundamental Generative AI - 2027",
+    "language": "en",
+    "category": "3d",
+    "text": "Strong knowledge of computer vision, 3D, NLP, or AI for science.",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "Computer vision",
+      "NLP"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-10",
+    "source_job_id": "nvidia:JR2023496",
+    "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496",
+    "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics",
+    "language": "en",
+    "category": "3d",
+    "text": "Course or internship experience related to the following areas could be required: Computer Vision, Mapping, Localization, SLAM, Image Processing, Segmentation",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "Computer vision",
+      "SLAM",
+      "Image processing",
+      "Segmentation"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-11",
+    "source_job_id": "tencent:1283126460798018560",
+    "source_url": "https://join.qq.com/jobdesc.html?postId=1283126460798018560",
+    "title": "技术研究-高性能计算方向",
+    "language": "zh",
+    "category": "ece",
+    "text": "1、针对业务需求，解决算力瓶颈、通信延迟、分布式系统扩展性等问题；",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "Distributed systems"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-12",
+    "source_job_id": "tencent:1284501698043487232",
+    "source_url": "https://join.qq.com/jobdesc.html?postId=1284501698043487232",
+    "title": "技术研究-机器人方向",
+    "language": "zh",
+    "category": "ece",
+    "text": "3、熟悉设计软件（如Solidworks）、仿真软件（如Adams/Gazebo）或至少一种编程语言（C/C++、Python、Matlab）。",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "C",
+      "C++",
+      "Python",
+      "MATLAB"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-13",
+    "source_job_id": "tencent:1200889496565214210",
+    "source_url": "https://join.qq.com/jobdesc.html?postId=1200889496565214210",
+    "title": "技术研究-高性能计算方向",
+    "language": "zh",
+    "category": "ece",
+    "text": "3）大模型工程框架方向：开发或优化大模型训练框架（如PyTorch/TensorFlow/DeepSpeed/Megatron-LM），设计分布式训练策略（模型并行、流水线并行、混合并行），提升千亿级参数模型的训练效率。研究训练加速技术（梯度压缩、显存优化、动态计算图调度）。",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "LLMs",
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-14",
+    "source_job_id": "tencent:1209171621219493888",
+    "source_url": "https://join.qq.com/jobdesc.html?postId=1209171621219493888",
+    "title": "技术研究-高性能计算方向",
+    "language": "zh",
+    "category": "ece",
+    "text": "1）GPU方向：研究GPU集群的调度策略，优化资源利用率。探索混合精度计算、模型量化等GPU加速技术；",
+    "review_status": "agent-reviewed",
+    "expected_skills": [],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-15",
+    "source_job_id": "tencent:1210646470286783494",
+    "source_url": "https://join.qq.com/jobdesc.html?postId=1210646470286783494",
+    "title": "技术研究-高性能计算方向",
+    "language": "zh",
+    "category": "ece",
+    "text": "2）网络方向：设计低延迟、高吞吐的分布式网络架构（如InfiniBand/RoCE/DPU）。优化MPI、NCCL等通信库性能，解决大规模集群中的网络拥塞问题；",
+    "review_status": "agent-reviewed",
+    "expected_skills": [],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-16",
+    "source_job_id": "nvidia:JR2025478",
+    "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478",
+    "title": "Research Intern, Efficient Deep Learning - 2027",
+    "language": "en",
+    "category": "ece",
+    "text": "NVIDIA is searching for an outstanding PhD intern working on efficient deep learning to join the Deep Learning Efficiency Research (DLER) team. We are passionate about research that pushes boundaries but also has impact in the real world. The team has two core focuses: (1) efficient diffusion language models and multimodal generative models, and (2) efficient agentic AI with hybrid inference orchestration across cloud and edge. We are also excited about post-training model optimization (pruning, quantization, NAS), efficient architecture design, adaptive/dynamic inference, and resource-efficient training and finetuning.",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "Deep learning",
+      "Diffusion models"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-17",
+    "source_job_id": "nvidia:JR2027047",
+    "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047",
+    "title": "NVIDIA 2027 Ignite Internships: Hardware Engineering",
+    "language": "en",
+    "category": "ece",
+    "text": "Basic knowledge of one or more of the following programming languages C, C++, Python, Perl, MATLAB",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "C",
+      "C++",
+      "Python",
+      "MATLAB"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-18",
+    "source_job_id": "nvidia:JR2026567",
+    "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/GPU-Compiler-LLVM-Backend-Intern---2027_JR2026567",
+    "title": "GPU Compiler LLVM Backend Intern - 2027",
+    "language": "en",
+    "category": "ece",
+    "text": "We are searching for a LLVM Compiler Intern for an exciting and fun role in our GPU Software organization. Our Compiler team is responsible for constructing and emitting the highest performance GPU machine instructions for Graphics (OpenGL, Vulkan, DX) and Compute (CUDA, PTX, OpenCL, Fortran, C++). This team is comprised of worldwide leading compiler engineering experts who provide leading edge performance and capabilities for NVIDIA's current and future complex parallel SIMT architectures.",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "C++",
+      "CUDA",
+      "OpenGL",
+      "Vulkan"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-19",
+    "source_job_id": "nvidia:JR2007248",
+    "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Remote/Software-Engineering-Intern--Nsight-Systems---2026_JR2007248",
+    "title": "Software Engineering Intern, Nsight Systems - 2026",
+    "language": "en",
+    "category": "ece",
+    "text": "NVIDIA's products, hardware and software, are world leaders for performance and efficiency. We are continually innovating in creative ways to improve our ability to deliver outstanding solutions across a wide range of sectors. We are seeking exceptional interns who will have a chance to play a key role in shipping user visible features in a large established product. In the Software Developer Tools Team, we enable internal and third-party developers to turn NVIDIA's hardware into groundbreaking cluster, server, professional, consumer, automotive, and embedded solutions.",
+    "review_status": "agent-reviewed",
+    "expected_skills": [],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-20",
+    "source_job_id": "nvidia:JR2026958",
+    "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
+    "title": "NVIDIA 2027 Ignite Internships: Software Engineering",
+    "language": "en",
+    "category": "ece",
+    "text": "Linux/Android/Jetson Embedded Systems Software",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "Linux",
+      "Embedded systems"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-21",
+    "source_job_id": "tencent:1282707390126745600",
+    "source_url": "https://join.qq.com/jobdesc.html?postId=1282707390126745600",
+    "title": "算法-机器学习方向",
+    "language": "zh",
+    "category": "vision",
+    "text": "5、对计算机视觉、语音识别、自然语言处理、精准推荐等领域提供模型支持，进行创新应用试验和落地产品开发。",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "Computer vision",
+      "NLP"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-22",
+    "source_job_id": "tencent:1282707403120699392",
+    "source_url": "https://join.qq.com/jobdesc.html?postId=1282707403120699392",
+    "title": "算法-多媒体处理方向",
+    "language": "zh",
+    "category": "vision",
+    "text": "3、有声学、语音信号背景知识、语音识别、分离、合成、说话人识别与日志研发经验；或熟悉HEVC/AVS2等视频编码标准，有VVC或者AVS3标准研究经验，具有扎实的图像、视频处理基础。",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "Image processing"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-23",
+    "source_job_id": "tencent:1282707439695012864",
+    "source_url": "https://join.qq.com/jobdesc.html?postId=1282707439695012864",
+    "title": "PC客户端开发",
+    "language": "zh",
+    "category": "vision",
+    "text": "5、响应适配市场变化及新的交互形态，探索AI驱动的新型桌面交互（如智能搜索、AI助手、语音/视觉交互等），迭代更新产品功能。",
+    "review_status": "agent-reviewed",
+    "expected_skills": [],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-24",
+    "source_job_id": "tencent:1283126465243980800",
+    "source_url": "https://join.qq.com/jobdesc.html?postId=1283126465243980800",
+    "title": "算法-计算机视觉方向",
+    "language": "zh",
+    "category": "vision",
+    "text": "1、负责图像/视频相关算法的研究与开发，包括深度学习以及常用机器学习方法在机器视觉中的应用；",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "Deep learning",
+      "Machine learning",
+      "Computer vision"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-25",
+    "source_job_id": "tencent:1283126501084308480",
+    "source_url": "https://join.qq.com/jobdesc.html?postId=1283126501084308480",
+    "title": "测试开发",
+    "language": "zh",
+    "category": "vision",
+    "text": "4、 有一定了解的：图像处理原理或者计算机图形学；网络信息安全知识。",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "Image processing"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-26",
+    "source_job_id": "nvidia:JR2024708",
+    "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708",
+    "title": "Data Processing Developer Technology Intern - 2027",
+    "language": "en",
+    "category": "vision",
+    "text": "Expertise in parallelization and performance optimization of Deep Learning models arising from Natural Language Processing, Computer Vision, Recommender Systems, etc.",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "Deep learning",
+      "NLP",
+      "Computer vision"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-27",
+    "source_job_id": "nvidia:JR2025792",
+    "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Embodied-and-Agentic-AI---2027_JR2025792",
+    "title": "PhD Research Intern, Embodied and Agentic AI - 2027",
+    "language": "en",
+    "category": "vision",
+    "text": "Excellent knowledge of theory and practice of AI, in particular in computer vision, LLMs, and agents.",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "Computer vision",
+      "LLMs"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-28",
+    "source_job_id": "nvidia:JR2025647",
+    "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647",
+    "title": "PhD Research Intern, Robotics - Summer 2027",
+    "language": "en",
+    "category": "vision",
+    "text": "The Seattle Robotics Lab has published over 500 research papers, including many influential works that have been presented at top robotics, AI, and computer vision conferences. These works include BayesSim, cuRobo, DeXtreme, DiSECT, Factory, GraspNet, IndustReal, ITPS, LAPA, MimicGen, NeRD, RoboLab, RVT, ScheduleStream, and SHAC. (See our publications page for a complete list.) The work has deeply impacted the research community and NVIDIA products, including Isaac Sim, Isaac Lab, Isaac Manipulator, Isaac Lab-Arena, Cosmos, and Newton amongst others.",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "Computer vision"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-29",
+    "source_job_id": "nvidia:JR2025379",
+    "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379",
+    "title": "PhD Research Intern, Programming Systems - 2027",
+    "language": "en",
+    "category": "vision",
+    "text": "Produce technology vision and the basis for products 5-10 years out. Focus should not be on products currently shipping or in development, except as to how they can be extended and improved.",
+    "review_status": "agent-reviewed",
+    "expected_skills": [],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-30",
+    "source_job_id": "nvidia:JR2026307",
+    "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineer-Intern--AI-and-DL-Kernel-Libraries---2027_JR2026307",
+    "title": "Software Engineer Intern, AI and DL Kernel Libraries - 2027",
+    "language": "en",
+    "category": "vision",
+    "text": "Experience developing with or using deep learning frameworks such as PyTorch, JAX, TensorFlow, or ONNX.",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "Deep learning",
+      "PyTorch",
+      "JAX",
+      "TensorFlow"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-31",
+    "source_job_id": "tencent:1282707398326592512",
+    "source_url": "https://join.qq.com/jobdesc.html?postId=1282707398326592512",
+    "title": "AI全栈工程师",
+    "language": "zh",
+    "category": "ai",
+    "text": "2、构建基于大模型的全链路应用系统，包括AI能力接入、Agent架构设计、RAG系统搭建、业务知识库建设等，实现端到端的AI应用落地；",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "LLMs"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-32",
+    "source_job_id": "tencent:1282707395466077184",
+    "source_url": "https://join.qq.com/jobdesc.html?postId=1282707395466077184",
+    "title": "Agent开发工程师",
+    "language": "zh",
+    "category": "ai",
+    "text": "1、熟练掌握至少一门主流编程语言（Python/TypeScript/Go 等），具备扎实的数据结构与算法基础，代码质量意识强；",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "Python"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-33",
+    "source_job_id": "tencent:1282707395466077185",
+    "source_url": "https://join.qq.com/jobdesc.html?postId=1282707395466077185",
+    "title": "AI应用工程师",
+    "language": "zh",
+    "category": "ai",
+    "text": "1、负责AI应用产品的开发与交付，将大模型能力转化为面向用户的产品功能，参与需求分析、方案设计、开发实现与持续迭代；",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "LLMs"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-34",
+    "source_job_id": "tencent:1282707395466077186",
+    "source_url": "https://join.qq.com/jobdesc.html?postId=1282707395466077186",
+    "title": "AI算法工程",
+    "language": "zh",
+    "category": "ai",
+    "text": "2、熟练掌握Python及PyTorch等深度学习框架，有实际的模型训练、实验与调优经验；",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "Python",
+      "PyTorch",
+      "Deep learning"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-35",
+    "source_job_id": "tencent:1282707383965295616",
+    "source_url": "https://join.qq.com/jobdesc.html?postId=1282707383965295616",
+    "title": "后台开发",
+    "language": "zh",
+    "category": "ai",
+    "text": "6、参与新技术的研究和探索，特别关注AI/大模型技术在后端架构中的应用，为团队的技术进步和产品创新提供支持。",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "LLMs"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-36",
+    "source_job_id": "nvidia:JR2026971",
+    "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971",
+    "title": "AI Agent Development Engineer (RDSS Intern)",
+    "language": "en",
+    "category": "ai",
+    "text": "Strong programming skills in Tcl/C++/Python, with the ability to design, implement, debug, and maintain high-quality tools.",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "C++",
+      "Python"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-37",
+    "source_job_id": "nvidia:JR2027025",
+    "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025",
+    "title": "AI Compiler Formal Verification Intern",
+    "language": "en",
+    "category": "ai",
+    "text": "• Knowledge of deep learning frameworks (such as Pytorch and TensorRT) and compilers",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "Deep learning",
+      "PyTorch",
+      "TensorRT"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-38",
+    "source_job_id": "nvidia:JR2012698",
+    "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698",
+    "title": "Research Scientist, Fundamental Generative AI - New College Grad 2026",
+    "language": "en",
+    "category": "ai",
+    "text": "Knowledge of deep learning frameworks, such as PyTorch.",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "Deep learning",
+      "PyTorch"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-39",
+    "source_job_id": "nvidia:JR2017083",
+    "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
+    "title": "Systems Software Engineer - New College Grad 2026",
+    "language": "en",
+    "category": "ai",
+    "text": "Exposure to ML/AI techniques and deep learning fundamentals, including various network architectures and advanced concepts like model optimization, backpropagation, and mitigating challenges like vanishing gradients and model overfitting.",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "Deep learning",
+      "Machine learning"
+    ],
+    "human_reviewed": false
+  },
+  {
+    "id": "review-40",
+    "source_job_id": "nvidia:JR2026775",
+    "source_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775",
+    "title": "Developer Technology Engineering Intern - Compute Performance",
+    "language": "en",
+    "category": "ai",
+    "text": "Pursuing a MSc or preferably PhD degree in an engineering or computer science related discipline. While not a requirement, domain expertise in telecommunications, medical imaging, machine learning, deep learning, or natural sciences is helpful.",
+    "review_status": "agent-reviewed",
+    "expected_skills": [
+      "Machine learning",
+      "Deep learning"
+    ],
+    "human_reviewed": false
+  }
+]
