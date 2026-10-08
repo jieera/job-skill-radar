@@ -1,0 +1,11 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {filterJobs,ranking,csv,defaults} from './stats.ts';
+import type {Job} from './types.ts';
+const job=(id:string,seniority='intern',skill=true):Job=>({id,source:'demo',company:'Demo',title:'AI Intern',location:'US',markets:['US'],categories:['ai'],seniority,url:'https://example.org',posted_at:null,first_seen:'',last_seen:'',updated_at:'',active:true,missing_runs:0,skills:skill?[{name:'Python',evidence:[{text:'Python required',requirement:'required'},{text:'Python preferred',requirement:'preferred'}]}]:[]});
+test('coverage uses every filtered role, counting each skill once',()=>{const rows=[job('1'),job('1'),job('2','intern',false)];assert.deepEqual(ranking(rows,'required'),[{name:'Python',count:1,percent:50}])});
+test('default hides unknown levels and closed jobs',()=>{assert.equal(filterJobs([job('1'),job('2','unknown'),{...job('3'),active:false}],defaults).length,1)});
+test('market and category intersection',()=>{assert.equal(filterJobs([job('1')],{...defaults,market:'CN'}).length,0);assert.equal(filterJobs([job('1')],{...defaults,category:'3d'}).length,0)});
+test('requirement does not shrink denominator',()=>{assert.equal(filterJobs([job('1'),job('2','intern',false)],{...defaults,requirement:'required'}).length,2)});
+test('selected skill only matches requested evidence type',()=>{assert.equal(filterJobs([job('1')],{...defaults,skill:'Python',requirement:'unknown'}).length,0)});
+test('CSV preserves multiline quotes and neutralizes formulas',()=>{const j={...job('1'),title:'=SUM(1,2)',company:'a"b\nc'};const text=csv([j]);assert.ok(text.startsWith('\ufeff'));assert.ok(text.includes('"\'=SUM(1,2)"'));assert.ok(text.includes('"a""b\nc"'))});
