@@ -1,0 +1,54 @@
+name: Collect and deploy
+on:
+  schedule:
+    - cron: '23 7 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: collect-and-deploy
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s tests -v
+      - name: Restore previous snapshot
+        run: python scripts/snapshot_branch.py restore web/public/data/snapshot.json
+      - name: Collect public jobs
+        id: collect
+        continue-on-error: true
+        run: python -m radar.cli
+      - name: Persist data branch
+        run: python scripts/snapshot_branch.py save web/public/data/snapshot.json
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - run: npm ci && npm test && npm run build
+        working-directory: web
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/dist
+      - name: Deploy dashboard
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Report source errors after publishing status
+        if: steps.collect.outcome == 'failure'
+        run: |
+          echo 'One or more sources failed or returned partial data. The dashboard retains prior jobs and displays source status.'
+          exit 1
