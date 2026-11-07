@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T15:16:21.032627+00:00",
+  "generated_at": "2026-11-07T14:16:05.333968+00:00",
   "sources": [
     {
       "id": "nvidia",
@@ -8,11 +8,11 @@
       "market": "US",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
       "scope": "Intern and New College Graduate job types; US/China locations",
-      "checked_at": "2026-11-06T15:11:49.479061+00:00",
+      "checked_at": "2026-11-07T14:11:33.514464+00:00",
       "status": "ok",
       "message": "Complete crawl",
-      "last_success": "2026-11-06T15:16:21.032627+00:00",
-      "job_count": 175
+      "last_success": "2026-11-07T14:16:05.333968+00:00",
+      "job_count": 180
     },
     {
       "id": "apple",
@@ -20,10 +20,10 @@
       "market": "US",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN",
       "scope": "US internship team; graduate-only positions outside this team are not covered",
-      "checked_at": "2026-11-06T15:11:49.479286+00:00",
+      "checked_at": "2026-11-07T14:11:33.514795+00:00",
       "status": "ok",
       "message": "Complete crawl",
-      "last_success": "2026-11-06T15:16:21.032627+00:00",
+      "last_success": "2026-11-07T14:16:05.333968+00:00",
       "job_count": 16
     },
     {
@@ -32,10 +32,10 @@
       "market": "CN",
       "url": "https://join.qq.com",
       "scope": "Campus recruiting, technical job family; US/China locations",
-      "checked_at": "2026-11-06T15:11:49.479629+00:00",
+      "checked_at": "2026-11-07T14:11:33.515042+00:00",
       "status": "ok",
       "message": "Complete crawl",
-      "last_success": "2026-11-06T15:16:21.032627+00:00",
+      "last_success": "2026-11-07T14:16:05.333968+00:00",
       "job_count": 83
     },
     {
@@ -44,7 +44,7 @@
       "market": "US",
       "url": "https://careers.microsoft.com/v2/global/en/students",
       "scope": "Not connected",
-      "checked_at": "2026-11-06T15:13:19.486417+00:00",
+      "checked_at": "2026-11-07T14:12:32.405580+00:00",
       "status": "pending",
       "message": "Career entry page verified. The current recruiting system still needs a validated paginated job adapter.",
       "last_success": null,
@@ -56,7 +56,7 @@
       "market": "CN",
       "url": "https://jobs.bytedance.com/campus/position",
       "scope": "Not connected",
-      "checked_at": "2026-11-06T15:13:19.486448+00:00",
+      "checked_at": "2026-11-07T14:12:32.405613+00:00",
       "status": "pending",
       "message": "Campus page verified. Tested job search endpoint returned HTTP 405; browser-based adapter not yet validated.",
       "last_success": null,
@@ -68,7 +68,7 @@
       "market": "CN",
       "url": "https://career.huawei.com/cn/campus-recruitment",
       "scope": "Not connected",
-      "checked_at": "2026-11-06T15:13:19.486457+00:00",
+      "checked_at": "2026-11-07T14:12:32.405626+00:00",
       "status": "pending",
       "message": "Campus entry page verified. Dynamic search and detail pagination need a validated adapter.",
       "last_success": null,
@@ -76,6 +76,275 @@
     }
   ],
   "jobs": [
+    {
+      "id": "nvidia:JR2029468",
+      "source": "nvidia",
+      "company": "NVIDIA",
+      "title": "AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027",
+      "location": "China, Shanghai",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2029468",
+      "posted_at": "2026-11-07",
+      "categories": [
+        "ai",
+        "ece"
+      ],
+      "seniority": "intern",
+      "markets": [
+        "CN"
+      ],
+      "skills": [
+        {
+          "name": "C++",
+          "evidence": [
+            {
+              "text": "GPU profiling, C++/CUDA development, and open-source contributions or research in ML systems are also valued.",
+              "requirement": "preferred"
+            }
+          ]
+        },
+        {
+          "name": "CUDA",
+          "evidence": [
+            {
+              "text": "GPU profiling, C++/CUDA development, and open-source contributions or research in ML systems are also valued.",
+              "requirement": "preferred"
+            }
+          ]
+        },
+        {
+          "name": "Python",
+          "evidence": [
+            {
+              "text": "Strong Python and debugging skills, with systems fundamentals in concurrency, distributed execution, memory management, or data movement.",
+              "requirement": "required"
+            }
+          ]
+        },
+        {
+          "name": "Reinforcement learning",
+          "evidence": [
+            {
+              "text": "Develop and optimize training infrastructure for advanced Physical AI world models, supporting pre-training, supervised fine-tuning (SFT), and reinforcement learning (RL).",
+              "requirement": "mentioned"
+            }
+          ]
+        }
+      ],
+      "description_hash": "077c2c766c4fe20d55d6eaf6073907f9571308500a2328eeb9e236392eceec6b",
+      "first_seen": "2026-11-07T14:16:05.333968+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
+      "updated_at": "2026-11-07T14:16:05.333968+00:00",
+      "active": true,
+      "missing_runs": 0
+    },
+    {
+      "id": "nvidia:JR2029243",
+      "source": "nvidia",
+      "company": "NVIDIA",
+      "title": "Reinforcement Learning Intern - 2027",
+      "location": "China, Shanghai · China, Beijing · China, Shenzhen",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Reinforcement-Learning-Intern---2027_JR2029243-1",
+      "posted_at": "2026-11-07",
+      "categories": [
+        "ai",
+        "ece"
+      ],
+      "seniority": "intern",
+      "markets": [
+        "CN"
+      ],
+      "skills": [
+        {
+          "name": "C++",
+          "evidence": [
+            {
+              "text": "Strong programming skills in Python and foundational familiarity with C++.",
+              "requirement": "required"
+            }
+          ]
+        },
+        {
+          "name": "PyTorch",
+          "evidence": [
+            {
+              "text": "Hands-on project or academic research experience developing and training deep RL algorithms using PyTorch or TensorFlow.",
+              "requirement": "required"
+            }
+          ]
+        },
+        {
+          "name": "Python",
+          "evidence": [
+            {
+              "text": "Strong programming skills in Python and foundational familiarity with C++.",
+              "requirement": "required"
+            }
+          ]
+        },
+        {
+          "name": "Reinforcement learning",
+          "evidence": [
+            {
+              "text": "At NVIDIA, we are pushing the boundaries of what’s possible within self-driving vehicle technology by bringing to bear the power of Deep Reinforcement Learning (RL).",
+              "requirement": "unknown"
+            },
+            {
+              "text": "We are looking for a Reinforcement Learning Intern to join our mission in building intelligent, safe, and efficient self-driving technology that will redefine transportation on a global scale.",
+              "requirement": "unknown"
+            },
+            {
+              "text": "Research, prototype, and implement state-of-the-art Reinforcement Learning (RL) algorithms for autonomous vehicle decision-making and trajectory planning.",
+              "requirement": "mentioned"
+            },
+            {
+              "text": "Solid theoretical foundation in Reinforcement Learning, including policy gradients (e.g., PPO, GRPO), actor-critic methods, and model-based RL.",
+              "requirement": "required"
+            }
+          ]
+        },
+        {
+          "name": "TensorFlow",
+          "evidence": [
+            {
+              "text": "Hands-on project or academic research experience developing and training deep RL algorithms using PyTorch or TensorFlow.",
+              "requirement": "required"
+            }
+          ]
+        }
+      ],
+      "description_hash": "ed0c7eb592889615f1c94b3b98fa53f37edda52e50a9050494558f8270e3b513",
+      "first_seen": "2026-11-07T14:16:05.333968+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
+      "updated_at": "2026-11-07T14:16:05.333968+00:00",
+      "active": true,
+      "missing_runs": 0
+    },
+    {
+      "id": "nvidia:JR2028172",
+      "source": "nvidia",
+      "company": "NVIDIA",
+      "title": "System Software Engineer Intern, Autonomous Vehicles - 2027",
+      "location": "China, Shenzhen · China, Shanghai",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/System-Software-Engineer-Intern--Autonomous-Vehicles---2027_JR2028172",
+      "posted_at": "2026-11-07",
+      "categories": [
+        "ai",
+        "ece"
+      ],
+      "seniority": "intern",
+      "markets": [
+        "CN"
+      ],
+      "skills": [
+        {
+          "name": "C++",
+          "evidence": [
+            {
+              "text": "Demonstrated proficiency in both C/C++ and Python: C/C++ to understand and debug the vehicle software stack, Python to build the tooling around it.",
+              "requirement": "required"
+            }
+          ]
+        },
+        {
+          "name": "Git",
+          "evidence": [
+            {
+              "text": "Familiar with git or other version control tooling.",
+              "requirement": "required"
+            }
+          ]
+        },
+        {
+          "name": "LLMs",
+          "evidence": [
+            {
+              "text": "Hands-on experience with LLM-based tooling: prompt and context design, tool calling, agent workflows, or evaluation of model output on a real task.",
+              "requirement": "preferred"
+            }
+          ]
+        },
+        {
+          "name": "Python",
+          "evidence": [
+            {
+              "text": "Demonstrated proficiency in both C/C++ and Python: C/C++ to understand and debug the vehicle software stack, Python to build the tooling around it.",
+              "requirement": "required"
+            }
+          ]
+        }
+      ],
+      "description_hash": "dd873b4ce854110e116582a63dc3b78a76dedf895f01d2656ea8fee705d5e236",
+      "first_seen": "2026-11-07T14:16:05.333968+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
+      "updated_at": "2026-11-07T14:16:05.333968+00:00",
+      "active": true,
+      "missing_runs": 0
+    },
+    {
+      "id": "nvidia:JR2028135",
+      "source": "nvidia",
+      "company": "NVIDIA",
+      "title": "System Software Engineer Intern - Autonomous Vehicles – 2027",
+      "location": "China, Shanghai",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Engineer-Intern---Autonomous-Vehicles---2027_JR2028135",
+      "posted_at": "2026-11-06",
+      "categories": [
+        "ai",
+        "ece"
+      ],
+      "seniority": "intern",
+      "markets": [
+        "CN"
+      ],
+      "skills": [
+        {
+          "name": "C++",
+          "evidence": [
+            {
+              "text": "Implement and test in-vehicle system software, primarily in C/C++.",
+              "requirement": "mentioned"
+            },
+            {
+              "text": "Strong C or C++ programming skills.",
+              "requirement": "required"
+            }
+          ]
+        },
+        {
+          "name": "Embedded systems",
+          "evidence": [
+            {
+              "text": "Coursework or projects involving embedded systems, Linux, networking, cybersecurity, or applied AI.",
+              "requirement": "preferred"
+            }
+          ]
+        },
+        {
+          "name": "Linux",
+          "evidence": [
+            {
+              "text": "Coursework or projects involving embedded systems, Linux, networking, cybersecurity, or applied AI.",
+              "requirement": "preferred"
+            }
+          ]
+        },
+        {
+          "name": "Machine learning",
+          "evidence": [
+            {
+              "text": "Experience with AI-assisted developer tools, machine learning, language models, or agentic systems.",
+              "requirement": "preferred"
+            }
+          ]
+        }
+      ],
+      "description_hash": "b60153dd24fb1a02a570d6d2bc87259ff0520f55df01ba8da702b098d0c96832",
+      "first_seen": "2026-11-07T14:16:05.333968+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
+      "updated_at": "2026-11-07T14:16:05.333968+00:00",
+      "active": true,
+      "missing_runs": 0
+    },
     {
       "id": "nvidia:JR2029067",
       "source": "nvidia",
@@ -139,7 +408,7 @@
       ],
       "description_hash": "50955ad1cbbe6ff71b253f393ba5973d07de27fc413f47751198fea0351b2419",
       "first_seen": "2026-11-06T15:16:21.032627+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-11-06T15:16:21.032627+00:00",
       "active": true,
       "missing_runs": 0
@@ -198,7 +467,7 @@
       ],
       "description_hash": "d57112e57a5c069aee2d8a0737d68788f20159f757b31c79f3670ca3d3f0f8a8",
       "first_seen": "2026-11-06T15:16:21.032627+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-11-06T15:16:21.032627+00:00",
       "active": true,
       "missing_runs": 0
@@ -294,7 +563,7 @@
       ],
       "description_hash": "25fdc308e7e17d16a86c3226d8e7b8ea08b182107fd24d6f35029d5cafe36589",
       "first_seen": "2026-11-06T15:16:21.032627+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-11-06T15:16:21.032627+00:00",
       "active": true,
       "missing_runs": 0
@@ -364,7 +633,7 @@
       ],
       "description_hash": "cc5133790e02137e0d14bead9fe7a8e69943ba333e956190d772067a60c529e9",
       "first_seen": "2026-11-06T15:16:21.032627+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-11-06T15:16:21.032627+00:00",
       "active": true,
       "missing_runs": 0
@@ -432,7 +701,7 @@
       ],
       "description_hash": "24fefff22e4fed0f4bd141f85f4fbae1d22f2c6d273e7d87fc308da5b60dad50",
       "first_seen": "2026-11-05T15:43:48.401646+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-11-05T15:43:48.401646+00:00",
       "active": true,
       "missing_runs": 0
@@ -455,7 +724,7 @@
       "skills": [],
       "description_hash": "3abee32f1397bd4c4067cdab3fb6899030336ca0e360a26a5237214e6b502b13",
       "first_seen": "2026-11-05T15:43:48.401646+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-11-05T15:43:48.401646+00:00",
       "active": true,
       "missing_runs": 0
@@ -621,7 +890,7 @@
       ],
       "description_hash": "cccc3730793fba01d39c1d5ad12bf9b663db79133dd2e175362f15e75c4c00f1",
       "first_seen": "2026-11-05T15:43:48.401646+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-11-05T15:43:48.401646+00:00",
       "active": true,
       "missing_runs": 0
@@ -676,7 +945,7 @@
       ],
       "description_hash": "e6e7903d188d744b74fded192937855c646ce0a97c9a35a96fa1652a17a1737e",
       "first_seen": "2026-11-05T15:43:48.401646+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-11-05T15:43:48.401646+00:00",
       "active": true,
       "missing_runs": 0
@@ -718,7 +987,7 @@
       ],
       "description_hash": "a2eeabd8a13477df7fca5f14239129776b78822f4f836e5ceb0f89e05be348c5",
       "first_seen": "2026-11-04T15:38:21.951211+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-11-04T15:38:21.951211+00:00",
       "active": true,
       "missing_runs": 0
@@ -783,7 +1052,7 @@
       ],
       "description_hash": "dd4c4498ad1520a6ff12769f48dd9cf749571d835586f34288544eb88f094188",
       "first_seen": "2026-11-04T15:38:21.951211+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-11-04T15:38:21.951211+00:00",
       "active": true,
       "missing_runs": 0
@@ -879,7 +1148,7 @@
       ],
       "description_hash": "d155deb22d45748135d1e934f0370f2b5d220df72e3d37529bbebe795639f31f",
       "first_seen": "2026-11-03T15:26:10.383449+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-11-03T15:26:10.383449+00:00",
       "active": true,
       "missing_runs": 0
@@ -902,7 +1171,7 @@
       "skills": [],
       "description_hash": "f1cdeb94d47a1270935c4103554f7e364e1ccb4970ffa666da226f80a898ce9c",
       "first_seen": "2026-11-03T15:26:10.383449+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-11-03T15:26:10.383449+00:00",
       "active": true,
       "missing_runs": 0
@@ -990,7 +1259,7 @@
       ],
       "description_hash": "fb046b9608f7426b7dc613d479f502a36acc5a27831fb2c99d0dabbc9df65988",
       "first_seen": "2026-11-03T15:26:10.383449+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-11-03T15:26:10.383449+00:00",
       "active": true,
       "missing_runs": 0
@@ -1053,7 +1322,7 @@
       ],
       "description_hash": "107a19f04994bd680f731cc14320c300b840524caa15db20d543415d3f196266",
       "first_seen": "2026-11-03T15:26:10.383449+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-11-03T15:26:10.383449+00:00",
       "active": true,
       "missing_runs": 0
@@ -1140,7 +1409,7 @@
       ],
       "description_hash": "a29b3bfb84671cce4673753073baada87745eee9d64d2d0772d54e43748d0d8b",
       "first_seen": "2026-11-03T15:26:10.383449+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-11-03T15:26:10.383449+00:00",
       "active": true,
       "missing_runs": 0
@@ -1205,7 +1474,7 @@
       ],
       "description_hash": "cb29be4bd36c4ea126a561ee69513771da03b05ef2e8eead3051b4153f3ada3a",
       "first_seen": "2026-11-02T17:20:30.971125+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-11-02T17:20:30.971125+00:00",
       "active": true,
       "missing_runs": 0
@@ -1283,7 +1552,7 @@
       ],
       "description_hash": "8e12a4c0061afb690010d0970668dc69181b6df06e9756a9120388b0899d54db",
       "first_seen": "2026-10-30T14:26:24.282253+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -1369,7 +1638,7 @@
       "last_seen": "2026-11-03T15:26:10.383449+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": false,
-      "missing_runs": 3
+      "missing_runs": 4
     },
     {
       "id": "nvidia:JR2026799",
@@ -1417,7 +1686,7 @@
       ],
       "description_hash": "5ed304910f0e8d350596facf31cbc0e1781bf0a9b8007d6106033091476f4bf0",
       "first_seen": "2026-10-30T14:26:24.282253+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -1494,7 +1763,7 @@
       ],
       "description_hash": "3d9b8516bd5d153146c8e2a98e61e777cc0b2d573e1eb00540895dd494157815",
       "first_seen": "2026-10-29T14:34:26.900586+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-29T14:34:26.900586+00:00",
       "active": true,
       "missing_runs": 0
@@ -1549,7 +1818,7 @@
       ],
       "description_hash": "bc925e8e76941bc3f4d8253d7f5b5498356b55399824e06fdff12d9bb7251bad",
       "first_seen": "2026-10-29T14:34:26.900586+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-29T14:34:26.900586+00:00",
       "active": true,
       "missing_runs": 0
@@ -1641,7 +1910,7 @@
       ],
       "description_hash": "9beaa7acd2dfa8de9f5575421f8aa4349750838911fdc4738018130c9ab2144d",
       "first_seen": "2026-10-29T14:34:26.900586+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-29T14:34:26.900586+00:00",
       "active": true,
       "missing_runs": 0
@@ -1724,7 +1993,7 @@
       ],
       "description_hash": "db86dc553033d0b9e8e502f70aeb68e49bf94eef1c14788a4e7287b2be76bf53",
       "first_seen": "2026-10-29T14:34:26.900586+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-29T14:34:26.900586+00:00",
       "active": true,
       "missing_runs": 0
@@ -1854,7 +2123,7 @@
       ],
       "description_hash": "ca0c70ef0d5e4ab9dea396a5e71d52487288758b568bc08afd83c54372c44f9b",
       "first_seen": "2026-10-28T14:13:42.826725+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -1890,7 +2159,7 @@
       "last_seen": "2026-11-04T15:38:21.951211+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": false,
-      "missing_runs": 2
+      "missing_runs": 3
     },
     {
       "id": "nvidia:JR2028298",
@@ -1933,7 +2202,7 @@
       ],
       "description_hash": "649900266ba581fe7342b01c73cdf48513e17db63364e9ea03067ed90945c04d",
       "first_seen": "2026-10-24T12:10:07.525077+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-24T12:10:07.525077+00:00",
       "active": true,
       "missing_runs": 0
@@ -1988,7 +2257,7 @@
       ],
       "description_hash": "f6ed203effbcee0e2fe41129f8318c67c05b2896e354bc6c8317d9c3d565255a",
       "first_seen": "2026-10-24T12:10:07.525077+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-24T12:10:07.525077+00:00",
       "active": true,
       "missing_runs": 0
@@ -2078,7 +2347,7 @@
       ],
       "description_hash": "e8a101aca726781b132b730c4f2fb33ae1d6eebd7b35b0821f87cd7a145a341c",
       "first_seen": "2026-10-24T12:10:07.525077+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-24T12:10:07.525077+00:00",
       "active": true,
       "missing_runs": 0
@@ -2144,7 +2413,7 @@
       ],
       "description_hash": "4f2e2e8a31b559b9caf3abe4b19bb36a916d9d05132ab0e3b3b07899e1150b48",
       "first_seen": "2026-10-24T12:10:07.525077+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-24T12:10:07.525077+00:00",
       "active": true,
       "missing_runs": 0
@@ -2197,7 +2466,7 @@
       ],
       "description_hash": "ba1ec9e69291b1e17c7eb8144fda7481dc35c83b8b6a4a57dd83110644b2f70f",
       "first_seen": "2026-10-24T12:10:07.525077+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-24T12:10:07.525077+00:00",
       "active": true,
       "missing_runs": 0
@@ -2335,7 +2604,7 @@
       ],
       "description_hash": "41ecdd315a0b3b60a7c27937e0f64d1d97cd36b5d51521f1bcd0544d13fb729b",
       "first_seen": "2026-10-23T12:46:21.401395+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-23T12:46:21.401395+00:00",
       "active": true,
       "missing_runs": 0
@@ -2399,7 +2668,7 @@
       ],
       "description_hash": "b745dc5b38d86b25fa21eb4bd87d977ea3b743630e4205d4a4436c2771607f77",
       "first_seen": "2026-10-23T12:46:21.401395+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -2518,7 +2787,7 @@
       "last_seen": "2026-10-27T13:28:00.871504+00:00",
       "updated_at": "2026-10-22T13:07:02.799426+00:00",
       "active": false,
-      "missing_runs": 9
+      "missing_runs": 10
     },
     {
       "id": "nvidia:JR2027089",
@@ -2638,7 +2907,7 @@
       ],
       "description_hash": "69520f8f7a758cea8b1c63641f272dee67fbb9b8234f0d754ab578d080bd8ef7",
       "first_seen": "2026-10-22T13:07:02.799426+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -2661,7 +2930,7 @@
       "skills": [],
       "description_hash": "a3bc1ed260bb11f177bd87941e4cd81002146b10df25e70f1b2bb8def7b3779f",
       "first_seen": "2026-10-22T13:07:02.799426+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -2708,7 +2977,7 @@
       ],
       "description_hash": "e7fed1021a298daa437cd1db11c822a2614d2a1eaf8a6ae72eb3f7459268997b",
       "first_seen": "2026-10-22T13:07:02.799426+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -2756,7 +3025,7 @@
       "last_seen": "2026-10-27T13:28:00.871504+00:00",
       "updated_at": "2026-10-21T13:05:36.265141+00:00",
       "active": false,
-      "missing_runs": 9
+      "missing_runs": 10
     },
     {
       "id": "nvidia:JR2028027",
@@ -2847,7 +3116,7 @@
       "last_seen": "2026-10-30T14:26:24.282253+00:00",
       "updated_at": "2026-10-21T13:05:36.265141+00:00",
       "active": false,
-      "missing_runs": 7
+      "missing_runs": 8
     },
     {
       "id": "nvidia:JR2027718",
@@ -2939,7 +3208,7 @@
       ],
       "description_hash": "0240580bfbde3ade7a1dd21f827b04a63d4b0636b76d914fc6e8611d94d66bdb",
       "first_seen": "2026-10-21T13:05:36.265141+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -3019,7 +3288,7 @@
       ],
       "description_hash": "6a078f6940f3071b5bd706aa22d06d3c0d9f11a4810e1f49cd366d5810325961",
       "first_seen": "2026-10-21T13:05:36.265141+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-21T13:05:36.265141+00:00",
       "active": true,
       "missing_runs": 0
@@ -3127,7 +3396,7 @@
       ],
       "description_hash": "2d046e5dd5ec812124c1fa5cca18879bb76110fd25184f4945c2614a47d036b8",
       "first_seen": "2026-10-21T13:05:36.265141+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-21T13:05:36.265141+00:00",
       "active": true,
       "missing_runs": 0
@@ -3210,7 +3479,7 @@
       "last_seen": "2026-10-30T14:26:24.282253+00:00",
       "updated_at": "2026-10-21T13:05:36.265141+00:00",
       "active": false,
-      "missing_runs": 7
+      "missing_runs": 8
     },
     {
       "id": "nvidia:JR2027742",
@@ -3320,7 +3589,7 @@
       "last_seen": "2026-11-04T15:38:21.951211+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": false,
-      "missing_runs": 2
+      "missing_runs": 3
     },
     {
       "id": "nvidia:JR2026707",
@@ -3372,7 +3641,7 @@
       ],
       "description_hash": "3d8a599a44d1aa300cf63be0ae03d0e2acb605352f58be397c6739c1c02a8b0e",
       "first_seen": "2026-10-20T12:52:23.947734+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -3454,7 +3723,7 @@
       ],
       "description_hash": "cc6dbdbbdc11cf34f5999469ba67e5f7fd7e88033c7e1961a74b6c1d84eaa1d9",
       "first_seen": "2026-10-19T14:51:01.948853+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-19T14:51:01.948853+00:00",
       "active": true,
       "missing_runs": 0
@@ -3515,7 +3784,7 @@
       ],
       "description_hash": "d68c2e83377482280dc893954cae297d78337113f8956df9331c7c6defa07c56",
       "first_seen": "2026-10-19T14:51:01.948853+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-19T14:51:01.948853+00:00",
       "active": true,
       "missing_runs": 0
@@ -3576,7 +3845,7 @@
       ],
       "description_hash": "362de709ab982fd6170d04372d626a957a6bce91bccd49661df693c22bbc450b",
       "first_seen": "2026-10-19T14:51:01.948853+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-19T14:51:01.948853+00:00",
       "active": true,
       "missing_runs": 0
@@ -3637,7 +3906,7 @@
       ],
       "description_hash": "90b019dd5624e40a072df6e0956222b58b876b708cb0acb1945e426cb5f5d2d6",
       "first_seen": "2026-10-19T14:51:01.948853+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-19T14:51:01.948853+00:00",
       "active": true,
       "missing_runs": 0
@@ -3679,7 +3948,7 @@
       ],
       "description_hash": "c7def334a030c3c1f28847e55ec66f33c30cbd3061e3eea5552ba901c124163c",
       "first_seen": "2026-10-19T14:51:01.948853+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-19T14:51:01.948853+00:00",
       "active": true,
       "missing_runs": 0
@@ -3721,7 +3990,7 @@
       ],
       "description_hash": "3d17aca5bd4589770bcb42045b489a0f3605cef503cbaf891cf801d34ae7bed6",
       "first_seen": "2026-10-19T14:51:01.948853+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-19T14:51:01.948853+00:00",
       "active": true,
       "missing_runs": 0
@@ -3790,7 +4059,7 @@
       ],
       "description_hash": "e55c62cdb782c9eb918eb98b9eed890a535f78dda2656b26ba57b1ee72746a8d",
       "first_seen": "2026-10-16T12:37:57.169118+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-16T12:37:57.169118+00:00",
       "active": true,
       "missing_runs": 0
@@ -3841,7 +4110,7 @@
       ],
       "description_hash": "52db4b509131f1f9c850a386ca1befb4c31bd4ba1efee80e0d958c39dd693ca4",
       "first_seen": "2026-10-15T12:47:33.687546+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -3901,7 +4170,7 @@
       ],
       "description_hash": "4d2a7e047a56cefd655c8b56a5177eca70aa88f2083560c0b7581b9bb762720d",
       "first_seen": "2026-10-14T13:00:54.127243+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -3924,7 +4193,7 @@
       "skills": [],
       "description_hash": "0aec8c0f078e86aa64b44c50f71919ac26bf2b1074ff71c0a5be5b3bebd34c33",
       "first_seen": "2026-10-14T13:00:54.127243+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -3966,7 +4235,7 @@
       ],
       "description_hash": "d290a855c12891f49b27786867525e9b430e329f9cb08eea19d92831f7245d3a",
       "first_seen": "2026-10-14T13:00:54.127243+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -4057,7 +4326,7 @@
       ],
       "description_hash": "f72e03f0604a764b92948256374cdc6acf56fc01a8129ef1b48233bb2098cdb9",
       "first_seen": "2026-10-14T13:00:54.127243+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -4111,7 +4380,7 @@
       "last_seen": "2026-10-27T13:28:00.871504+00:00",
       "updated_at": "2026-10-14T13:00:54.127243+00:00",
       "active": false,
-      "missing_runs": 9
+      "missing_runs": 10
     },
     {
       "id": "nvidia:JR2025907",
@@ -4232,7 +4501,7 @@
       ],
       "description_hash": "2ba905b6ea7a370a7a2d506eae7a3d3afbfa0df771ea8e267b73bc3216f25212",
       "first_seen": "2026-10-14T13:00:54.127243+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -4295,7 +4564,7 @@
       ],
       "description_hash": "fe932a28d6e070029ae4aadd1883fc817c92409443fee3e2acb31ca01cb36840",
       "first_seen": "2026-10-14T13:00:54.127243+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-20T12:52:23.947734+00:00",
       "active": true,
       "missing_runs": 0
@@ -4377,7 +4646,7 @@
       ],
       "description_hash": "b51500d93ab08ed6a796e6d4eb30f12bf6167374c489d4176d58ac08c4e71c0f",
       "first_seen": "2026-10-13T15:13:23.202967+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-13T15:13:23.202967+00:00",
       "active": true,
       "missing_runs": 0
@@ -4429,7 +4698,7 @@
       ],
       "description_hash": "d4242c4148f56a7bbb4c87816edeeaa18561353a838ce4759ad2fd6a97728f69",
       "first_seen": "2026-10-13T15:13:23.202967+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-13T15:13:23.202967+00:00",
       "active": true,
       "missing_runs": 0
@@ -4517,7 +4786,7 @@
       ],
       "description_hash": "4625cc46da3996cf3909ae33a139fa46bf676047af1e45d26f77a78a52de0b12",
       "first_seen": "2026-10-13T15:13:23.202967+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-13T15:13:23.202967+00:00",
       "active": true,
       "missing_runs": 0
@@ -4603,7 +4872,7 @@
       ],
       "description_hash": "d67a02fb501d982c54f0b097be37c0e72db92a67ba16806dca16d142b5824432",
       "first_seen": "2026-10-13T15:13:23.202967+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -4690,7 +4959,7 @@
       ],
       "description_hash": "d95f331931fe29447501b499fb20b24b38b699c4ec8e54bb2aa25fa0fb951b43",
       "first_seen": "2026-10-13T15:13:23.202967+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-13T15:13:23.202967+00:00",
       "active": true,
       "missing_runs": 0
@@ -4806,7 +5075,7 @@
       ],
       "description_hash": "663388154c291480feebbc24a2d9201f6f607474a4a6bd5c3636f116185bb32b",
       "first_seen": "2026-10-13T15:13:23.202967+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-13T15:13:23.202967+00:00",
       "active": true,
       "missing_runs": 0
@@ -5017,7 +5286,7 @@
       "last_seen": "2026-10-20T12:52:23.947734+00:00",
       "updated_at": "2026-10-13T15:13:23.202967+00:00",
       "active": false,
-      "missing_runs": 16
+      "missing_runs": 17
     },
     {
       "id": "nvidia:JR2008990",
@@ -5104,7 +5373,7 @@
       "last_seen": "2026-10-20T12:52:23.947734+00:00",
       "updated_at": "2026-10-13T15:13:23.202967+00:00",
       "active": false,
-      "missing_runs": 16
+      "missing_runs": 17
     },
     {
       "id": "nvidia:JR2027480",
@@ -5193,7 +5462,7 @@
       ],
       "description_hash": "42858a450d5324a02de3d3de405a14f0345b7a9eb8ee72621762e90e1cef34fc",
       "first_seen": "2026-10-12T16:54:36.745076+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-12T16:54:36.745076+00:00",
       "active": true,
       "missing_runs": 0
@@ -5285,7 +5554,7 @@
       ],
       "description_hash": "42858a450d5324a02de3d3de405a14f0345b7a9eb8ee72621762e90e1cef34fc",
       "first_seen": "2026-10-12T16:54:36.745076+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-12T16:54:36.745076+00:00",
       "active": true,
       "missing_runs": 0
@@ -5364,7 +5633,7 @@
       ],
       "description_hash": "94d0f60490f4a5f12c6a19f9bb573447e262bec1e85260abb85350dfa9774dff",
       "first_seen": "2026-10-12T16:54:36.745076+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-12T16:54:36.745076+00:00",
       "active": true,
       "missing_runs": 0
@@ -5433,7 +5702,7 @@
       ],
       "description_hash": "cbe0ac6d4afe236fd6e30895bea0ec9951f46c20519ec7004f718092baa854da",
       "first_seen": "2026-10-12T16:54:36.745076+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-12T16:54:36.745076+00:00",
       "active": true,
       "missing_runs": 0
@@ -5525,7 +5794,7 @@
       ],
       "description_hash": "c3f0dc34772bb9e07c2a7c990dbac8fc77dc7aaae2a0e7166148fe39e79c26b1",
       "first_seen": "2026-10-12T16:54:36.745076+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-12T16:54:36.745076+00:00",
       "active": true,
       "missing_runs": 0
@@ -5594,7 +5863,7 @@
       ],
       "description_hash": "cbe0ac6d4afe236fd6e30895bea0ec9951f46c20519ec7004f718092baa854da",
       "first_seen": "2026-10-12T16:54:36.745076+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-12T16:54:36.745076+00:00",
       "active": true,
       "missing_runs": 0
@@ -5736,7 +6005,7 @@
       "last_seen": "2026-10-20T12:52:23.947734+00:00",
       "updated_at": "2026-10-12T16:54:36.745076+00:00",
       "active": false,
-      "missing_runs": 16
+      "missing_runs": 17
     },
     {
       "id": "nvidia:JR2026880",
@@ -5799,7 +6068,7 @@
       ],
       "description_hash": "86bc889e38f0f8cb0f6e7a2efaca51e0105912ccfdb5ab0deefafcf1d434ae38",
       "first_seen": "2026-10-12T16:54:36.745076+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-12T16:54:36.745076+00:00",
       "active": true,
       "missing_runs": 0
@@ -5913,7 +6182,7 @@
       ],
       "description_hash": "de7e1dc691d428ea46391c79b1d3c0ab2982cf70d6a34f7d054d579ce01ca7f0",
       "first_seen": "2026-10-12T16:54:36.745076+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-12T16:54:36.745076+00:00",
       "active": true,
       "missing_runs": 0
@@ -5965,7 +6234,7 @@
       ],
       "description_hash": "229295381b2375d2f78db0a1f1e5a336a31636396ef3c5390158ce509080b306",
       "first_seen": "2026-10-12T16:54:36.745076+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-12T16:54:36.745076+00:00",
       "active": true,
       "missing_runs": 0
@@ -5998,7 +6267,7 @@
       ],
       "description_hash": "de8952912b0bbdbed0648d44fe31b4ff91206f78d47bded5420e4deb2687e24d",
       "first_seen": "2026-10-12T16:54:36.745076+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-12T16:54:36.745076+00:00",
       "active": true,
       "missing_runs": 0
@@ -6080,7 +6349,7 @@
       ],
       "description_hash": "556a641daedaa33ac1f2914fe1aec749cfe94a227a8dedf4fe96c1262894494f",
       "first_seen": "2026-10-12T16:54:36.745076+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-12T16:54:36.745076+00:00",
       "active": true,
       "missing_runs": 0
@@ -6122,7 +6391,7 @@
       ],
       "description_hash": "b4b2050ccfb9f7e1fc70698a4cfc03fccb5066e917d16adc8f7f8a62c33544b4",
       "first_seen": "2026-10-10T13:55:20.025575+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -6198,7 +6467,7 @@
       "last_seen": "2026-10-14T13:00:54.127243+00:00",
       "updated_at": "2026-10-10T13:55:20.025575+00:00",
       "active": false,
-      "missing_runs": 22
+      "missing_runs": 23
     },
     {
       "id": "nvidia:JR2026901",
@@ -6258,7 +6527,7 @@
       "last_seen": "2026-10-29T14:34:26.900586+00:00",
       "updated_at": "2026-10-10T13:55:20.025575+00:00",
       "active": false,
-      "missing_runs": 8
+      "missing_runs": 9
     },
     {
       "id": "nvidia:JR2026839",
@@ -6351,7 +6620,7 @@
       ],
       "description_hash": "efc35e28b7a8c625cff95399d5d979e579c6ab81546e63a438259fbc7ff36033",
       "first_seen": "2026-10-10T13:55:20.025575+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -6471,7 +6740,7 @@
       ],
       "description_hash": "88038605d35736ce2838f2e3ad3231ee3f60275db6b15ec4a236e0f39578a235",
       "first_seen": "2026-10-09T14:30:08.543937+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -6563,7 +6832,7 @@
       ],
       "description_hash": "84d595886d76ef561d4da3fa9257adf43c2309722ea4e3525e165cacbfd1966d",
       "first_seen": "2026-10-08T02:01:54.005605+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -6642,7 +6911,7 @@
       ],
       "description_hash": "6c3ef81188c9bc8fbbd0bdd9291edf76c6b4a095dd66a7d4232eb3025aa41e04",
       "first_seen": "2026-10-08T02:01:54.005605+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -6693,7 +6962,7 @@
       ],
       "description_hash": "5cfaea875f043ba01b409396dc4e72435995b49277a3ff5591d1bc6c1b3cec15",
       "first_seen": "2026-10-08T02:01:54.005605+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -6790,7 +7059,7 @@
       ],
       "description_hash": "711785792c0f2f064c0e8c2d3738f82e728dcabecafaba5623539b45849e6b51",
       "first_seen": "2026-10-08T02:01:54.005605+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -6836,7 +7105,7 @@
       ],
       "description_hash": "5a4e4e06afb00f1475118f71a808032086aea481221e20d53afb4d582cff2fb7",
       "first_seen": "2026-10-08T02:01:54.005605+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -6939,7 +7208,7 @@
       "last_seen": "2026-10-13T15:13:23.202967+00:00",
       "updated_at": "2026-10-08T02:01:54.005605+00:00",
       "active": false,
-      "missing_runs": 23
+      "missing_runs": 24
     },
     {
       "id": "nvidia:JR2011879",
@@ -6979,7 +7248,7 @@
       ],
       "description_hash": "3700ec0de0bfb538310d252d9f98fc35b3f5a69f80ad764a33a7f41a610901e9",
       "first_seen": "2026-10-08T02:01:54.005605+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -7062,7 +7331,7 @@
       "last_seen": "2026-10-18T12:10:34.366926+00:00",
       "updated_at": "2026-10-13T15:13:23.202967+00:00",
       "active": false,
-      "missing_runs": 18
+      "missing_runs": 19
     },
     {
       "id": "nvidia:JR2026958",
@@ -7181,16 +7450,16 @@
       "last_seen": "2026-10-17T11:44:41.226505+00:00",
       "updated_at": "2026-10-13T15:13:23.202967+00:00",
       "active": false,
-      "missing_runs": 19
+      "missing_runs": 20
     },
     {
       "id": "nvidia:JR2026739",
       "source": "nvidia",
       "company": "NVIDIA",
-      "title": "Research Scientist, Fundamental Generative AI - New College Grad 2026",
+      "title": "PhD Research Scientist, Fundamental Generative AI - New College Grad 2026",
       "location": "US, CA, Santa Clara",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739",
-      "posted_at": "2026-09-29",
+      "posted_at": "2026-11-06",
       "categories": [
         "ai",
         "3d",
@@ -7256,12 +7525,12 @@
           ]
         }
       ],
-      "description_hash": "cfab94e4cd1680529112a637bd3a7a0767dbbba00acf6d806b16fca345843a9f",
+      "description_hash": "038c4812d90836e2fcd54a775b3517c5c0f30ae202813d137e077984483c5318",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-10-27T13:28:00.871504+00:00",
-      "updated_at": "2026-10-06T02:23:54.778229+00:00",
-      "active": false,
-      "missing_runs": 9
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
+      "updated_at": "2026-11-07T14:16:05.333968+00:00",
+      "active": true,
+      "missing_runs": 0
     },
     {
       "id": "nvidia:JR2026584",
@@ -7322,7 +7591,7 @@
       ],
       "description_hash": "50bf1a4a621cf05652dce9a4899949f59eb7c93b284bcfd4e43e86868fe1a816",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -7386,7 +7655,7 @@
       ],
       "description_hash": "039262e4db6533728a24e65fd1ac46736c83e6b1b45ba226369c5d04b158e255",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -7476,7 +7745,7 @@
       ],
       "description_hash": "da579255267d3a612c3dded6da48af8c993d8f0be627e43998fd763bf1b7d811",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -7592,7 +7861,7 @@
       "last_seen": "2026-10-06T02:23:54.778229+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": false,
-      "missing_runs": 30
+      "missing_runs": 31
     },
     {
       "id": "nvidia:JR2026471",
@@ -7667,7 +7936,7 @@
       ],
       "description_hash": "b90031e8d46228c507676f252fc2071799457aa1b1d17d2c953182a5ed6ff16b",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -7731,7 +8000,7 @@
       ],
       "description_hash": "d6f522fffe259f87d3257934954a4b6a872619145cd48cbe23bc3531214b2657",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -7792,7 +8061,7 @@
       ],
       "description_hash": "e5217e3e0f9096b24bb71797b4077de41fcd25b4de40f4e7780a53874f840dd9",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -7815,7 +8084,7 @@
       "skills": [],
       "description_hash": "0d929aa9de1ef070f2eae792b11d4b38c762ee12a650d7df4e67f08e7bb12086",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -7866,7 +8135,7 @@
       ],
       "description_hash": "aaa6e4897f8e50fcd2de384af12f90971f399e0f47bb154094d89d20bca41534",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -8068,7 +8337,7 @@
       ],
       "description_hash": "1f06d276892d5d61483bd879a12725f78ca7bb712d4220ced765a4d9cae70227",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -8119,7 +8388,7 @@
       ],
       "description_hash": "f1be710c00e85a25534ef36db6e59d4331926392327cc59282dc70423bb6ba3c",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -8174,7 +8443,7 @@
       ],
       "description_hash": "86f33ee0dd3b705681fe1ced3ce0aabdea6cf86770725596d0cd2186ff947e37",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -8241,7 +8510,7 @@
       ],
       "description_hash": "98a41355b7d59210943530ba3e1482823bf4f7860559ecb739bef4704ee99298",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -8348,7 +8617,7 @@
       ],
       "description_hash": "ae0047fe5744b44e0a4ecc44835af0bc07de0a63f900d6b855fa9f26f36c5fba",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -8441,7 +8710,7 @@
       ],
       "description_hash": "b6ddb8788be63944d2be5867ef69be25c1468899fb50265d45e2c6c8d6409c98",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -8515,7 +8784,7 @@
       ],
       "description_hash": "94f7f518e50ad62e98ac0820bed68ea109d29b2f04d088c2d9054bbf65dd7f5f",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -8659,7 +8928,7 @@
       ],
       "description_hash": "6ddc315c86c725611444f1d996cb5aaf0fabe40c16ad7b19a3cf2035ec922b33",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -8770,7 +9039,7 @@
       ],
       "description_hash": "ae608ecbb36cd02f658334d70e68668781abf4d1318669cd6e035efd83c1fa74",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -8871,7 +9140,7 @@
       ],
       "description_hash": "d10452a578de1e727ffac366f951967cbb5da8886503e141218d7a7b7f421de4",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -8973,7 +9242,7 @@
       "last_seen": "2026-11-04T15:38:21.951211+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": false,
-      "missing_runs": 2
+      "missing_runs": 3
     },
     {
       "id": "nvidia:JR2025893",
@@ -9044,7 +9313,7 @@
       ],
       "description_hash": "078fdb6d71894ab0e9cbc24b8cca136bcb10a849bbcf9caefdc9a9e375e48d42",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -9141,7 +9410,7 @@
       ],
       "description_hash": "e465aa4924a776ce7aec59c7660e747ef9e8cfe1ebed12411cf008c685c08abf",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -9258,7 +9527,7 @@
       ],
       "description_hash": "d003b2121a70b2869e12c8aa0b48c04444410a5130b6c032a876d0c420a1618d",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -9284,7 +9553,7 @@
       "last_seen": "2026-11-06T15:16:21.032627+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
-      "missing_runs": 0
+      "missing_runs": 1
     },
     {
       "id": "nvidia:JR2025647",
@@ -9401,7 +9670,7 @@
       ],
       "description_hash": "1dbd53710ba1bd181e6f514ec20bb3d713ab924030f3b63496b2b66f82b3b7e1",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -9462,7 +9731,7 @@
       ],
       "description_hash": "077c2c766c4fe20d55d6eaf6073907f9571308500a2328eeb9e236392eceec6b",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -9541,7 +9810,7 @@
       ],
       "description_hash": "8990b26f4a5a9d775c780669c4ef9207aea3d88d0620321a44be967bc31f7796",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -9595,7 +9864,7 @@
       "last_seen": "2026-10-09T14:30:08.543937+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": false,
-      "missing_runs": 27
+      "missing_runs": 28
     },
     {
       "id": "nvidia:JR2025478",
@@ -9691,7 +9960,7 @@
       ],
       "description_hash": "86e5097d91189766d04cc4051648fdfeef8d83c67a25974a20dd9b5f10cef335",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -9742,7 +10011,7 @@
       ],
       "description_hash": "79bef36eaaf0393effd4db50f36d0fd94ea2e210a818768ff7f87547398a2066",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -9841,7 +10110,7 @@
       ],
       "description_hash": "6f204c2ac252da3a366dba2415d95918211ac9b39685bd09a660721ae38e3933",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -9929,7 +10198,7 @@
       ],
       "description_hash": "20ac2868f3d90f2120fdd6be2f6fbe769130b333e5d907088b18543eb63f3e01",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -9986,7 +10255,7 @@
       ],
       "description_hash": "5511196dedf69f2904203b1b517158ace16dcd12fa508919652dfa0ead3748db",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -10070,7 +10339,7 @@
       ],
       "description_hash": "9e61250cff5ac1aaad80a826d77774e5885eaadb6c029163832f8a4f8b81885e",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -10122,7 +10391,7 @@
       ],
       "description_hash": "d28e659dbb148ef4bea7c350c02e26d5db24ae9dda4cff56b405f8c7947b812c",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -10246,7 +10515,7 @@
       ],
       "description_hash": "0e6043ef711befa3e60346fb326f4f866155b25d2d8f612451768f485d1c0609",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -10298,7 +10567,7 @@
       ],
       "description_hash": "d6a99bcabd9f7cc516ee64f1ce3a78baacaf9a04d19bd137a15b82d6e9e71352",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -10340,7 +10609,7 @@
       ],
       "description_hash": "59ae974f74405fb73ddabd42700c806c82e33d2d3a0477f636b3f375be87ab6a",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -10402,7 +10671,7 @@
       ],
       "description_hash": "035865ec3d8dbc4a0dc2c13fb4c4f1f3e846cfe13d3a9d2e2d7b6e390d11f35a",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -10472,7 +10741,7 @@
       ],
       "description_hash": "d023d1a9267c1668a65093661de7cdabec9d2b5be7e325451c426bd7c77c6d6b",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -10571,7 +10840,7 @@
       "last_seen": "2026-10-11T14:15:06.636885+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": false,
-      "missing_runs": 25
+      "missing_runs": 26
     },
     {
       "id": "nvidia:JR2024861",
@@ -10628,7 +10897,7 @@
       ],
       "description_hash": "d8f57d6270e65d5faeace98221683f2dfed8f812100bc4b395eed3a276ded606",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -10679,7 +10948,7 @@
       ],
       "description_hash": "f35cc7bcd58a4bf715e1f7de1ed12c9bc78a03130d39c54d379d7c85cf83a0dc",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -10740,7 +11009,7 @@
       ],
       "description_hash": "45597389249ec52b2dd2abd3cf52b8b9148e10aafd8165bd578e9e5e753554ec",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -10817,7 +11086,7 @@
       ],
       "description_hash": "ef40a6ecff62d246abede1181a8d4871f0c8bff334ede581ea4f66eb5a5a7994",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -10903,7 +11172,7 @@
       ],
       "description_hash": "c1440cb823f118c89d7979c936a52ec5f2ba794a3d6c8a577c584f5ff12b3bc6",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-11-03T15:26:10.383449+00:00",
       "active": true,
       "missing_runs": 0
@@ -10945,7 +11214,7 @@
       ],
       "description_hash": "24a7790a40ce1042b0c70acdcea29008b679263caa14d65fcbd7bd42d73acde1",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -11026,7 +11295,7 @@
       ],
       "description_hash": "180995ef804e594b1d01179454a7a863e9d3b5ca263dee5b0a84536041daf65d",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -11118,7 +11387,7 @@
       ],
       "description_hash": "3be57bb3baa21a3df5a702e039362ce99823ab25d69e29abb3151fa92e339a20",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -11187,7 +11456,7 @@
       ],
       "description_hash": "50c8c5e26b981c0d2dccfbf27ece59212ff3e07389ca106b07a97f259f525937",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -11396,7 +11665,7 @@
       ],
       "description_hash": "410c7f6b1fcd044027e30ef8977f9ee346264d2b3e40c8b214fa2d272471b36a",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -11422,7 +11691,7 @@
       "last_seen": "2026-10-27T13:28:00.871504+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": false,
-      "missing_runs": 9
+      "missing_runs": 10
     },
     {
       "id": "nvidia:JR2024109",
@@ -11533,7 +11802,7 @@
       ],
       "description_hash": "0fb81b40efbc78b2a89dad82d425f7a226a8c1d0947278384cf9c7cfc3aa847e",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -11603,7 +11872,7 @@
       ],
       "description_hash": "19eb01d13e89dd3d61162f566e9f08cbce7d8b2d0255a6d1eeaea82d8e0834cc",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -11671,7 +11940,7 @@
       ],
       "description_hash": "3fd374923a86ab15105c916d655725b885becc30a2678075cda5fcd15d23053a",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -11750,7 +12019,7 @@
       ],
       "description_hash": "8f88ce5efc4386370a55458ca1c221b514ed3724a550a4bbb6bd3dda3994a972",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -11823,7 +12092,7 @@
       ],
       "description_hash": "9376cc5669602db87785a4989e91cbb49ce3ce44e9d5c5faa851accf46844c3e",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -11893,7 +12162,7 @@
       ],
       "description_hash": "d9e7593ede9c2e626e820fad11c6d75860575e13cd9338cd4d3e8bbfc4186e0e",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -11953,7 +12222,7 @@
       ],
       "description_hash": "9c6a942c82cf68dc6c647ea24e7e33645b62a98f1359c303fb9b02629b774259",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -12043,7 +12312,7 @@
       ],
       "description_hash": "d827a7b915e2b735c1f01a8c5685a647cd5276d693d9d8e524669d51407d9db8",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -12126,7 +12395,7 @@
       ],
       "description_hash": "4ffb0660831a0666efebcc44f73de573b3045a6183f04c3173c8531a1ee03fc3",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -12209,7 +12478,7 @@
       ],
       "description_hash": "50550d02c019964828180490a713c86b054cc96541bcbb822a5bf11f7fccc65e",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -12345,7 +12614,7 @@
       ],
       "description_hash": "f385f4b70c22471dcb9a6f9d59f2d4c0c3db206bb203377dd1910d831db7f7c9",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -12423,7 +12692,7 @@
       ],
       "description_hash": "b5ab05943556a76fea73601612a5602e04fa432fa5cd39d5c0f2ebc20ba11516",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -12515,7 +12784,7 @@
       ],
       "description_hash": "da79e659c6e2473b1ea26844b615a2ee07a525bb1ae0d65c05bd3ee7da94c25f",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -12598,7 +12867,7 @@
       ],
       "description_hash": "025339a603e25aa37fa869e45c1622b84a60aacdb4e84c61f1258790002b71f2",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -12690,7 +12959,7 @@
       ],
       "description_hash": "0e09ddd0a8c776bdb8ddddcc3e64c4a7b828fb0bf5ed7340b77f8a4db9bfa4ad",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -12767,7 +13036,7 @@
       ],
       "description_hash": "d96cf793c4d8103e6b269ae3ec45ce70cb348b28a6b937acead9624f10c162b6",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -12893,7 +13162,7 @@
       ],
       "description_hash": "6c2e0fe08e228bd50bf97869f732fb6dc696f7ffcbd3a9c4a59e49dd16775bc5",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -13020,7 +13289,7 @@
       ],
       "description_hash": "6d108c8c0a702d1e17eee15680120592d17e73bf42c8b9b0da6d9a49c91730d5",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -13089,7 +13358,7 @@
       ],
       "description_hash": "cbe0ac6d4afe236fd6e30895bea0ec9951f46c20519ec7004f718092baa854da",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": true,
       "missing_runs": 0
@@ -13140,7 +13409,7 @@
       ],
       "description_hash": "8dfaa88b2a42f22491d5601ad466b1df8cab1dad78e25e51eea40ea642d5998f",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -13173,7 +13442,7 @@
       ],
       "description_hash": "2ea7887855661085ba2b5f985ee528e94c0415bd6a694b27dc254a058f0dcbd4",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -13206,7 +13475,7 @@
       ],
       "description_hash": "1d5e5e041cdc16b6c9455c77de0a6ccd2bce5e66ceb0adfd1370834fc1f82a10",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -13257,7 +13526,7 @@
       ],
       "description_hash": "4cd3f8ad7e0a08632f529d588f13c5d23b9130c370ce3a85906eec8e67228bd7",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -13308,7 +13577,7 @@
       ],
       "description_hash": "3d5c78c04473d4cfb9c6bdbfef6fc7fd23a1ddf34fe07b901ae617a324649a72",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -13492,7 +13761,7 @@
       ],
       "description_hash": "bb3db88c2be8b23ad9719a6818a770eb68dfb72863ce6302d47186ba93692644",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -13673,7 +13942,7 @@
       ],
       "description_hash": "5231c0d8b3c6ce46026f6418f264784473dc028478fc5403551cecee3dcb9dda",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -13812,7 +14081,7 @@
       ],
       "description_hash": "3b9fd57613d5e5be1a58838d19bd13eae873d96697fbf0a59483e8da47641968",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -14021,7 +14290,7 @@
       ],
       "description_hash": "6fab5fa14328e00d5c0bf316d611999d8d575ac57c04c069863272981747fe93",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -14129,7 +14398,7 @@
       ],
       "description_hash": "3710fd837eee9c7626e0eeb3fb694263db577cd470e92f99e464f9b84ae53806",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -14215,7 +14484,7 @@
       ],
       "description_hash": "cf44f0ecb4c5c72d7ce57445ecb2a81db60e1399056ae0ca223c31d18467bc36",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -14329,7 +14598,7 @@
       ],
       "description_hash": "8b87b58877aa50fa4edf560fa5a0687f35597749e0f5144c021c91f88e8c9e02",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -14380,7 +14649,7 @@
       ],
       "description_hash": "eb94bb1135b1ef1b03cba41b9897430fe459915a4961119f6fe3f2eb9c5b1c6e",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -14431,7 +14700,7 @@
       ],
       "description_hash": "1db70aa6a5db233d3e8f9358dcc1d8ea147d5556b7929613771f2f83e4aba3fc",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -14490,7 +14759,7 @@
       ],
       "description_hash": "792cf51a97ffb3bd10ac63fad9561e99921e22234f5daad99361c464f2d77130",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -14597,7 +14866,7 @@
       "last_seen": "2026-11-03T15:26:10.383449+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": false,
-      "missing_runs": 3
+      "missing_runs": 4
     },
     {
       "id": "nvidia:JR2022102",
@@ -14636,7 +14905,7 @@
       ],
       "description_hash": "8954f332fdef4682a3cd9bbb63ece4222390ccba4a2f399deaaacd090114c3fb",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -14678,7 +14947,7 @@
       ],
       "description_hash": "94b9be5d767f5a9c8e18b7fde0aed8d7d71e2bf65f95ac44eb16e8a9bb74660a",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -14714,7 +14983,7 @@
       "last_seen": "2026-10-08T14:45:23.852209+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": false,
-      "missing_runs": 28
+      "missing_runs": 29
     },
     {
       "id": "nvidia:JR2021534",
@@ -14737,7 +15006,7 @@
       "last_seen": "2026-10-27T13:28:00.871504+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": false,
-      "missing_runs": 9
+      "missing_runs": 10
     },
     {
       "id": "nvidia:JR2020640",
@@ -14779,7 +15048,7 @@
       "last_seen": "2026-10-13T15:13:23.202967+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": false,
-      "missing_runs": 23
+      "missing_runs": 24
     },
     {
       "id": "nvidia:JR2020309",
@@ -14818,7 +15087,7 @@
       ],
       "description_hash": "18c58ab16642af5e3f7f514992e1e6fc3df90c7483c68ab1eaf9394f668cd41f",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -14898,7 +15167,7 @@
       "last_seen": "2026-10-30T14:26:24.282253+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": false,
-      "missing_runs": 7
+      "missing_runs": 8
     },
     {
       "id": "nvidia:JR2018659",
@@ -14954,7 +15223,7 @@
       ],
       "description_hash": "bc5f44303cf0c8824d72bcd9e833571ec086a938c93c2c84c7f5b67e61f53984",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -14996,7 +15265,7 @@
       ],
       "description_hash": "9ae619ddb8b0b7a7127f1056e459a87eee9d5f37e6a8505943efac4ed7d8b5a4",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -15060,7 +15329,7 @@
       "last_seen": "2026-10-12T16:54:36.745076+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": false,
-      "missing_runs": 24
+      "missing_runs": 25
     },
     {
       "id": "nvidia:JR2017486",
@@ -15108,7 +15377,7 @@
       ],
       "description_hash": "9552b28a89f37d202ce87fdb04183dc4d846d103e3fa05d267156e9684da6c5b",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -15180,7 +15449,7 @@
       "last_seen": "2026-10-27T13:28:00.871504+00:00",
       "updated_at": "2026-10-15T12:47:33.687546+00:00",
       "active": false,
-      "missing_runs": 9
+      "missing_runs": 10
     },
     {
       "id": "nvidia:JR2017083",
@@ -15236,7 +15505,7 @@
       "last_seen": "2026-10-06T02:23:54.778229+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": false,
-      "missing_runs": 30
+      "missing_runs": 31
     },
     {
       "id": "nvidia:JR2017005",
@@ -15296,7 +15565,7 @@
       "last_seen": "2026-10-11T14:15:06.636885+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": false,
-      "missing_runs": 25
+      "missing_runs": 26
     },
     {
       "id": "nvidia:JR2016865",
@@ -15335,7 +15604,7 @@
       ],
       "description_hash": "522004897cdab05d2eb7e4683d161ac8160f0ffbd1d1ea47455e7542ed07fc36",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -15397,7 +15666,7 @@
       ],
       "description_hash": "035865ec3d8dbc4a0dc2c13fb4c4f1f3e846cfe13d3a9d2e2d7b6e390d11f35a",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -15441,7 +15710,7 @@
       ],
       "description_hash": "e3a4be247c57508696e4c7191a7d79f7ec853ea6e452877ade8b95b7bd06a670",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -15500,7 +15769,7 @@
       "last_seen": "2026-10-09T14:30:08.543937+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": false,
-      "missing_runs": 27
+      "missing_runs": 28
     },
     {
       "id": "nvidia:JR2013177",
@@ -15539,7 +15808,7 @@
       ],
       "description_hash": "a1ed38a1567ceb3aede7db501a19f282c577764df124c202d32964009724fabb",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -15635,7 +15904,7 @@
       ],
       "description_hash": "192fed256268f524f2ec5a526b2f4765325b08ae17d5177baaaa673c0a683608",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -15714,7 +15983,7 @@
       ],
       "description_hash": "d677dc5caed76336fa9c18dc62c226886411e9b0df86a47ba024f9e15948df06",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -15741,7 +16010,7 @@
       "last_seen": "2026-10-28T14:13:42.826725+00:00",
       "updated_at": "2026-10-15T12:47:33.687546+00:00",
       "active": false,
-      "missing_runs": 9
+      "missing_runs": 10
     },
     {
       "id": "nvidia:JR2012398",
@@ -15864,7 +16133,7 @@
       ],
       "description_hash": "a43d8e5434f5f47a4e9630563a5b5ca5ca3cc746fed6dbfcae3cc2f3a33d117a",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -15941,7 +16210,7 @@
       "last_seen": "2026-10-28T14:13:42.826725+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": false,
-      "missing_runs": 9
+      "missing_runs": 10
     },
     {
       "id": "nvidia:JR2011631",
@@ -15984,7 +16253,7 @@
       ],
       "description_hash": "a2a5ab9b23ef66eb040d7ca27b4f6e9ef092c56e95645c8017a6106919ec0e41",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -16104,7 +16373,7 @@
       ],
       "description_hash": "358116eef6b170e08c0428e599ca084ce927d0a2984ab6a4f5aecae1ea7ecf82",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -16196,7 +16465,7 @@
       ],
       "description_hash": "ff0209973b20ed65edbcdf0deed9068e6e63c3617eadf1a703221cadc39f08d6",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -16280,7 +16549,7 @@
       "last_seen": "2026-10-12T16:54:36.745076+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": false,
-      "missing_runs": 24
+      "missing_runs": 25
     },
     {
       "id": "nvidia:JR2010391",
@@ -16319,7 +16588,7 @@
       ],
       "description_hash": "73c5fc72b9cee8d9cad93e6bb9e71e1b443bd01ecaf0165e588e4ea6a8f20774",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -16383,7 +16652,7 @@
       ],
       "description_hash": "9582680da92dfde2b2de13c8abade2f1ed296986f8b62a92d95401711839a5d1",
       "first_seen": "2026-10-06T02:23:54.778229+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-31T13:48:28.396870+00:00",
       "active": true,
       "missing_runs": 0
@@ -16409,7 +16678,7 @@
       "last_seen": "2026-10-22T13:07:02.799426+00:00",
       "updated_at": "2026-10-06T02:23:54.778229+00:00",
       "active": false,
-      "missing_runs": 14
+      "missing_runs": 15
     },
     {
       "id": "tencent:1292202515139771392",
@@ -16496,7 +16765,7 @@
       ],
       "description_hash": "5177aa54b7b4e5ad3c15bead3de307bef0e0f203653156cbbb7c04d8e87551cf",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -16594,7 +16863,7 @@
       ],
       "description_hash": "2eddbb072e54e357f902481c60e27459d49e64e088e65200c3e9c2120fdd93bc",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -16640,7 +16909,7 @@
       ],
       "description_hash": "5f90528f0815de41c7f3d6d308e80215f51cae3ce1bcadfd38bf7918d002b089",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -16741,7 +17010,7 @@
       ],
       "description_hash": "9427da8ba35d9044807b7596f6c260d8f24db55677a4f1bbf1b42876818b492b",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -16792,7 +17061,7 @@
       ],
       "description_hash": "fa3874f77e8e25d190d7c5859e74cc83ad6b4b4babdd79337a2894f915d70403",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -16863,7 +17132,7 @@
       ],
       "description_hash": "7daf51c3302f0717878c1ca993a11e6d9e8b784433561304b77b28ac2e537d28",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -16886,7 +17155,7 @@
       "skills": [],
       "description_hash": "60eaa6592b22a3c709ee8d0f7ef817f26b8ae6661dc1c6b06ae8eea5dd431e93",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -16909,7 +17178,7 @@
       "skills": [],
       "description_hash": "60eaa6592b22a3c709ee8d0f7ef817f26b8ae6661dc1c6b06ae8eea5dd431e93",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -16978,7 +17247,7 @@
       ],
       "description_hash": "e55c62cdb782c9eb918eb98b9eed890a535f78dda2656b26ba57b1ee72746a8d",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -17019,7 +17288,7 @@
       ],
       "description_hash": "4e0ad3f947e52d59c7a20b185c3659d8e5504040c0bd5df583f7679a08492090",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -17060,7 +17329,7 @@
       ],
       "description_hash": "4e0ad3f947e52d59c7a20b185c3659d8e5504040c0bd5df583f7679a08492090",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -17106,7 +17375,7 @@
       ],
       "description_hash": "5f90528f0815de41c7f3d6d308e80215f51cae3ce1bcadfd38bf7918d002b089",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -17175,7 +17444,7 @@
       ],
       "description_hash": "39f3bffb1271cf1ece7f054194ddc4d1be95b2476ad061c89598804e62a5855c",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -17270,7 +17539,7 @@
       ],
       "description_hash": "cc4d07b8fd8fc52916504cedde955cb88d01f6b4c48cfedf96e3e7093c4783d4",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -17303,7 +17572,7 @@
       ],
       "description_hash": "89d12a78190ac30657c86fa0617161ea22c42e9adab63698e9012d961188c595",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -17363,7 +17632,7 @@
       ],
       "description_hash": "33c95eaab44047f149146ab48f0d42d4b4b88c5b5d1ec0af2a7a0c8a84f375a3",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -17471,7 +17740,7 @@
       ],
       "description_hash": "a979d3491c5acc6e76ba4de4bb32878e6f52bf773d4cd19bfa9578ff3e109423",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -17610,7 +17879,7 @@
       ],
       "description_hash": "abd6ba1b845386bc3bd4b08fd5e7a7682a3d6fe8f899fa1765f91f568c17c21f",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -17684,7 +17953,7 @@
       ],
       "description_hash": "cd70f1fb42519623fe3fda107f9620a89887d3197413e1315fd1225ce2dfb455",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -17793,7 +18062,7 @@
       ],
       "description_hash": "c7604db68fffcbb29d3076aae5d7de36abf56e5e979171db1e513aa9d042e27e",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -17835,7 +18104,7 @@
       ],
       "description_hash": "2cac423f5de27532f6a09522bdd6ab7c00691c350514b4f8ff5008c100720e72",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -17881,7 +18150,7 @@
       ],
       "description_hash": "48bf643f113553401655ef13e475854aec7da0a8314fc227a08f7a2a66ad79cc",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -17932,7 +18201,7 @@
       ],
       "description_hash": "f5ed74201e0fbb773088dc7991c70d9f58a77e677e0ed1471bb4aa152af51f9e",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -18005,7 +18274,7 @@
       ],
       "description_hash": "68b099cae647207d65a4c555fcbf3ab3a3e4d44043206f75390603c8d4caea5d",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -18104,7 +18373,7 @@
       ],
       "description_hash": "6a4fc155dab65987283bcab992c21571d1c8eae233369cf33a5ced7fe7c7dfe8",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -18211,7 +18480,7 @@
       ],
       "description_hash": "e3e30f8f10af7413cb2cc26f8d5541f6ef3f91dac2883d33b84f0aa65b99372a",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -18281,7 +18550,7 @@
       ],
       "description_hash": "ef7f7a23beaa5d9a7edf299b23da781a05837b6ab7a9a55d9fda70e86d3992da",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -18327,7 +18596,7 @@
       ],
       "description_hash": "5f90528f0815de41c7f3d6d308e80215f51cae3ce1bcadfd38bf7918d002b089",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -18417,7 +18686,7 @@
       ],
       "description_hash": "5177aa54b7b4e5ad3c15bead3de307bef0e0f203653156cbbb7c04d8e87551cf",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -18458,7 +18727,7 @@
       ],
       "description_hash": "4e0ad3f947e52d59c7a20b185c3659d8e5504040c0bd5df583f7679a08492090",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -18500,7 +18769,7 @@
       ],
       "description_hash": "65c003931ed676ad690a94b1a25c0da3f3bb79a681afc1efd465708eb7667e8a",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -18625,7 +18894,7 @@
       ],
       "description_hash": "7d9760b21d1d6a1ec680442b12da931bf2e6e5d64279953e00b78821cf0de425",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -18676,7 +18945,7 @@
       ],
       "description_hash": "7d179ad984d60560477a0894c455237dfbf817636089054ba55745dce0dcebc1",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -18745,7 +19014,7 @@
       ],
       "description_hash": "cc2115e891125369e98f747433cb68d2b4a91b6b3300835939086ff3f5345d46",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -18840,7 +19109,7 @@
       ],
       "description_hash": "cc4d07b8fd8fc52916504cedde955cb88d01f6b4c48cfedf96e3e7093c4783d4",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -18909,7 +19178,7 @@
       ],
       "description_hash": "39f3bffb1271cf1ece7f054194ddc4d1be95b2476ad061c89598804e62a5855c",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -18932,7 +19201,7 @@
       "skills": [],
       "description_hash": "60eaa6592b22a3c709ee8d0f7ef817f26b8ae6661dc1c6b06ae8eea5dd431e93",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -19040,7 +19309,7 @@
       ],
       "description_hash": "a979d3491c5acc6e76ba4de4bb32878e6f52bf773d4cd19bfa9578ff3e109423",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -19141,7 +19410,7 @@
       ],
       "description_hash": "9427da8ba35d9044807b7596f6c260d8f24db55677a4f1bbf1b42876818b492b",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -19192,7 +19461,7 @@
       ],
       "description_hash": "fa3874f77e8e25d190d7c5859e74cc83ad6b4b4babdd79337a2894f915d70403",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -19215,7 +19484,7 @@
       "skills": [],
       "description_hash": "60eaa6592b22a3c709ee8d0f7ef817f26b8ae6661dc1c6b06ae8eea5dd431e93",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -19248,7 +19517,7 @@
       ],
       "description_hash": "7366d2a3eb05cc1144fc52d5b38f7b22a396d2b1ffaa0d48ab8a6ce7ae794930",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -19299,7 +19568,7 @@
       ],
       "description_hash": "f5ed74201e0fbb773088dc7991c70d9f58a77e677e0ed1471bb4aa152af51f9e",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -19370,7 +19639,7 @@
       ],
       "description_hash": "7daf51c3302f0717878c1ca993a11e6d9e8b784433561304b77b28ac2e537d28",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -19479,7 +19748,7 @@
       ],
       "description_hash": "c7604db68fffcbb29d3076aae5d7de36abf56e5e979171db1e513aa9d042e27e",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -19587,7 +19856,7 @@
       ],
       "description_hash": "a979d3491c5acc6e76ba4de4bb32878e6f52bf773d4cd19bfa9578ff3e109423",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -19656,7 +19925,7 @@
       ],
       "description_hash": "39f3bffb1271cf1ece7f054194ddc4d1be95b2476ad061c89598804e62a5855c",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -19702,7 +19971,7 @@
       ],
       "description_hash": "48bf643f113553401655ef13e475854aec7da0a8314fc227a08f7a2a66ad79cc",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -19772,7 +20041,7 @@
       ],
       "description_hash": "ef7f7a23beaa5d9a7edf299b23da781a05837b6ab7a9a55d9fda70e86d3992da",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -19897,7 +20166,7 @@
       ],
       "description_hash": "7d9760b21d1d6a1ec680442b12da931bf2e6e5d64279953e00b78821cf0de425",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -19970,7 +20239,7 @@
       ],
       "description_hash": "68b099cae647207d65a4c555fcbf3ab3a3e4d44043206f75390603c8d4caea5d",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -20040,7 +20309,7 @@
       ],
       "description_hash": "ef7f7a23beaa5d9a7edf299b23da781a05837b6ab7a9a55d9fda70e86d3992da",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -20179,7 +20448,7 @@
       ],
       "description_hash": "abd6ba1b845386bc3bd4b08fd5e7a7682a3d6fe8f899fa1765f91f568c17c21f",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -20304,7 +20573,7 @@
       ],
       "description_hash": "7d9760b21d1d6a1ec680442b12da931bf2e6e5d64279953e00b78821cf0de425",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -20364,7 +20633,7 @@
       ],
       "description_hash": "33c95eaab44047f149146ab48f0d42d4b4b88c5b5d1ec0af2a7a0c8a84f375a3",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -20489,7 +20758,7 @@
       ],
       "description_hash": "7d9760b21d1d6a1ec680442b12da931bf2e6e5d64279953e00b78821cf0de425",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -20558,7 +20827,7 @@
       ],
       "description_hash": "e55c62cdb782c9eb918eb98b9eed890a535f78dda2656b26ba57b1ee72746a8d",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -20591,7 +20860,7 @@
       ],
       "description_hash": "89d12a78190ac30657c86fa0617161ea22c42e9adab63698e9012d961188c595",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -20642,7 +20911,7 @@
       ],
       "description_hash": "7d179ad984d60560477a0894c455237dfbf817636089054ba55745dce0dcebc1",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -20688,7 +20957,7 @@
       ],
       "description_hash": "48bf643f113553401655ef13e475854aec7da0a8314fc227a08f7a2a66ad79cc",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -20730,7 +20999,7 @@
       ],
       "description_hash": "2cac423f5de27532f6a09522bdd6ab7c00691c350514b4f8ff5008c100720e72",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -20869,7 +21138,7 @@
       ],
       "description_hash": "abd6ba1b845386bc3bd4b08fd5e7a7682a3d6fe8f899fa1765f91f568c17c21f",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -20911,7 +21180,7 @@
       ],
       "description_hash": "2cac423f5de27532f6a09522bdd6ab7c00691c350514b4f8ff5008c100720e72",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -20962,7 +21231,7 @@
       ],
       "description_hash": "7d179ad984d60560477a0894c455237dfbf817636089054ba55745dce0dcebc1",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -21057,7 +21326,7 @@
       ],
       "description_hash": "cc4d07b8fd8fc52916504cedde955cb88d01f6b4c48cfedf96e3e7093c4783d4",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -21130,7 +21399,7 @@
       ],
       "description_hash": "68b099cae647207d65a4c555fcbf3ab3a3e4d44043206f75390603c8d4caea5d",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -21239,7 +21508,7 @@
       ],
       "description_hash": "c7604db68fffcbb29d3076aae5d7de36abf56e5e979171db1e513aa9d042e27e",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -21313,7 +21582,7 @@
       ],
       "description_hash": "cd70f1fb42519623fe3fda107f9620a89887d3197413e1315fd1225ce2dfb455",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -21420,7 +21689,7 @@
       ],
       "description_hash": "e3e30f8f10af7413cb2cc26f8d5541f6ef3f91dac2883d33b84f0aa65b99372a",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -21519,7 +21788,7 @@
       ],
       "description_hash": "6a4fc155dab65987283bcab992c21571d1c8eae233369cf33a5ced7fe7c7dfe8",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -21588,7 +21857,7 @@
       ],
       "description_hash": "cc2115e891125369e98f747433cb68d2b4a91b6b3300835939086ff3f5345d46",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -21639,7 +21908,7 @@
       ],
       "description_hash": "f5ed74201e0fbb773088dc7991c70d9f58a77e677e0ed1471bb4aa152af51f9e",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -21699,7 +21968,7 @@
       ],
       "description_hash": "33c95eaab44047f149146ab48f0d42d4b4b88c5b5d1ec0af2a7a0c8a84f375a3",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -21773,7 +22042,7 @@
       ],
       "description_hash": "cd70f1fb42519623fe3fda107f9620a89887d3197413e1315fd1225ce2dfb455",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -21872,7 +22141,7 @@
       ],
       "description_hash": "6a4fc155dab65987283bcab992c21571d1c8eae233369cf33a5ced7fe7c7dfe8",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -21979,7 +22248,7 @@
       ],
       "description_hash": "e3e30f8f10af7413cb2cc26f8d5541f6ef3f91dac2883d33b84f0aa65b99372a",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -22053,7 +22322,7 @@
       ],
       "description_hash": "cd70f1fb42519623fe3fda107f9620a89887d3197413e1315fd1225ce2dfb455",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -22152,7 +22421,7 @@
       ],
       "description_hash": "6a4fc155dab65987283bcab992c21571d1c8eae233369cf33a5ced7fe7c7dfe8",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -22221,7 +22490,7 @@
       ],
       "description_hash": "cc2115e891125369e98f747433cb68d2b4a91b6b3300835939086ff3f5345d46",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -22328,7 +22597,7 @@
       ],
       "description_hash": "e3e30f8f10af7413cb2cc26f8d5541f6ef3f91dac2883d33b84f0aa65b99372a",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -22351,7 +22620,7 @@
       "skills": [],
       "description_hash": "60eaa6592b22a3c709ee8d0f7ef817f26b8ae6661dc1c6b06ae8eea5dd431e93",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -22440,7 +22709,7 @@
       ],
       "description_hash": "a18b4525a3a6cca8a2b277ed2502ff7ed60541fe9defad200b58a09d0b83210f",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -22477,7 +22746,7 @@
       ],
       "description_hash": "a57e58c360ad5c1ce25691e64a19727b13a5da8f61eefd6b94f4bf95314c01a0",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -22602,7 +22871,7 @@
       ],
       "description_hash": "b71df4804518eb7989964d6ef77de8b10e5089270f9c317c9f9ab0aa06b0d9c8",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -22653,7 +22922,7 @@
       ],
       "description_hash": "830804ffbee237e5774997e09a12ac435ae2b05f38653f10cb6e58cf4ff6f25d",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -22783,7 +23052,7 @@
       ],
       "description_hash": "1c5f5f1841b475718afde1fd6f7097c43035b08c78f9d4430a714723e9012e1f",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -22853,7 +23122,7 @@
       ],
       "description_hash": "ee021192db560da7e5a3139398b5037320e60aa51d249d7ed8a2a306133fcb83",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -22923,7 +23192,7 @@
       ],
       "description_hash": "cafface859b49fc897284738fb610f957f3a71d4a73f6cfe0249237a18e96e8d",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -22965,7 +23234,7 @@
       ],
       "description_hash": "8d451a27096baa0d6932df01d5cd01b12793ac926fa386bc92b1b2302004f08d",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -23007,7 +23276,7 @@
       ],
       "description_hash": "b86e5febfdda23af7a79daedd4e8826a78551bc60f0d638dc86023974271fdd1",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -23040,7 +23309,7 @@
       ],
       "description_hash": "86a6007c273e0d195dffbf3fd98abbe53b4a36da44bfb58302e6fe0ced1cd487",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -23073,7 +23342,7 @@
       ],
       "description_hash": "993cf8e800c9d10f3807c1f92f7a69c120cd621907b4879a95a6210fbaabf2f1",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -23124,7 +23393,7 @@
       ],
       "description_hash": "deae78ee7f6783b653723facec07831b38ae872697dd807e398e72060193fd68",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -23175,7 +23444,7 @@
       ],
       "description_hash": "a6acaa3c998ae49e05e46f6b055212d91ef160fc19415340fd2aa50afbf5fe0e",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -23309,7 +23578,7 @@
       ],
       "description_hash": "62e5fa6f9bd59d38737a69fd2fcc1b7602ffbeb6811f50ea9f10843b3c558a02",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -23439,7 +23708,7 @@
       ],
       "description_hash": "c290cdf14f055861d39d62c55d8fedf6bf9c298356f09dde6e3eb5d502e56d60",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -23509,7 +23778,7 @@
       ],
       "description_hash": "5ffa700e2ecfe6accce614f1f6dab6d3ff147f73f234258c0803bc34b88ed91d",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
@@ -23551,7 +23820,7 @@
       ],
       "description_hash": "b40aa94577ce7519cf9bf14633ad99d23ae842b4327da3bc2f90ad2f9ab6d3c4",
       "first_seen": "2026-10-06T02:21:27.854825+00:00",
-      "last_seen": "2026-11-06T15:16:21.032627+00:00",
+      "last_seen": "2026-11-07T14:16:05.333968+00:00",
       "updated_at": "2026-10-06T02:21:27.854825+00:00",
       "active": true,
       "missing_runs": 0
